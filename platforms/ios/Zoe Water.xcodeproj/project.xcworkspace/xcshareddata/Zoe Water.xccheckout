@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F69AE005-8285-4ACC-B6F7-BBA3C77018C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Zoe Water</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC378D8C334CEAC22D632F7F60568A2B51676FDC</key>
+		<string>https://github.com/sourcecodemx/zoe</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Zoe Water.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC378D8C334CEAC22D632F7F60568A2B51676FDC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sourcecodemx/zoe</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC378D8C334CEAC22D632F7F60568A2B51676FDC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC378D8C334CEAC22D632F7F60568A2B51676FDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zoe</string>
+		</dict>
+	</array>
+</dict>
+</plist>

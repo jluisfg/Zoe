@@ -1,0 +1,28 @@
+{
+  "name": "zoe",
+  "version": "0.0.1",
+  "authors": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "./components",
+    "app/spec",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.14",
+    "lodash": "~2.4.1",
+    "parse-1.2.19.min": "http://www.parsecdn.com/js/parse-1.2.19.min.js",
+    "aspect.js": "*",
+    "cryptojslib": "~3.1.2",
+    "jquery": "~2.1.1",
+    "jquery-hammerjs": "~1.0.0",
+    "hammerjs": "~1.1.*",
+    "animate.css": "~3.2.0",
+    "requirejs-plugins": "~1.0.2",
+    "moment": "~2.9.0",
+    "chartist": "~0.7.4"
+  }
+}

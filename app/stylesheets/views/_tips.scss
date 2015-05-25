@@ -1,0 +1,19 @@
+#tips {
+	h2 {
+		font-weight: bold;
+	}
+
+	p {
+		color: white;
+	}
+
+	.item.toggled {
+		p {
+			text-overflow: visible;
+			overflow: visible;
+			white-space: normal;
+		}
+
+		background-color: $energized;
+	}
+}

@@ -1,0 +1,38 @@
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/back@2x.png')
+	h1.title
+	button.button.icon.button-clear#rightButton
+		img(src='images/share@2x.png')
+
+.scroll-content.has-header
+	.page-content
+		.padding
+			#image-wrapper
+				#image.text-center
+					#owner.hide.badge.badge-light
+					include ./block_refresher.jade
+
+			#caption-wrapper.hidden.text-center
+			textarea#caption-wrapper-text.hide
+			.text-center#like-area
+				#like.upvote
+					i.icon.ion-ios7-heart-outline
+				h3#likes
+
+#tabs-gallery-photo.tabs.tabs-dark.tabs-icon-top.hide
+	a.tab-item#delete
+		i.icon.ion-ios7-close-outline
+		| Eliminar
+	a.tab-item#edit
+		i.icon.ion-ios7-compose-outline
+		| Editar
+
+#tabs-gallery-photo-edit.tabs.tabs-dark.tabs-icon-top.hide
+	a.tab-item#cancel
+		i.icon.ion-ios7-close-empty
+		| Cancelar
+
+	a.tab-item.disabled#save(disabled)
+		i.icon.ion-ios7-checkmark-empty
+		| Guardar

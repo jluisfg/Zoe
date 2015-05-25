@@ -1,0 +1,41 @@
+include ./offline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/menu@2x.png')
+	h1.title 
+		img(src='images/logo@2x.png')
+	button.button.icon.button-clear#rightButton
+		img(src='images/settings@2x.png')
+
+.scroll-content.has-header
+	.page-content
+		.padding-top#homeGreeting
+			.h4.text-center ¡Hola 
+				span#username #{data.username}!
+			.h4.text-center Tu meta del día son 
+				span#goal #{data.goal}
+
+		.text-center.grid
+			.row
+				.col.text-right
+					button.button.button-dark.button-small#stats(type='button') Estadísticas
+				.col.text-left
+					button.button.button-dark.button-small#tips(type='button') Tips
+			
+
+		.text-center#goalArea
+			#circle
+			button#track(type='button')
+
+		.text-center.h3
+			span#percentage
+			span %
+
+		.text-center
+			button.button.button-energized#share Compartir
+
+.hide
+	button#settings(type='button', data-view='Settings/index', child)
+	button#weight(type='button', data-view='Settings/weight', child)
+	audio(src='audio/confirmation.wav', id="confirmation-audio")

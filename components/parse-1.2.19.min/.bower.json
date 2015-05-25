@@ -1,0 +1,14 @@
+{
+  "name": "parse-1.2.19.min",
+  "_cacheHeaders": {
+    "ETag": "\"566d1ab4cd3c12e6d0918241c08572ff\"",
+    "Last-Modified": "Fri, 17 Apr 2015 01:36:42 GMT",
+    "Content-Length": "87966",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:566d1ab4c",
+  "main": "index.js",
+  "_source": "http://www.parsecdn.com/js/parse-1.2.19.min.js",
+  "_target": "*",
+  "_originalSource": "http://www.parsecdn.com/js/parse-1.2.19.min.js"
+}

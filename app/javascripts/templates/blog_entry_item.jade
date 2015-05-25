@@ -1,0 +1,10 @@
+.item.item-image
+	if(data.image && data.image.url)
+		img(src=data.image.url)
+	else
+		img(src='images/blog_placeholder.jpg')
+.item.item-body
+	h2.positive #{data.title}
+	p.calm #{data.description}
+
+	button.button.button-energized.button-block.text-center(type='button') Leer mas

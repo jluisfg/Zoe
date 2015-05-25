@@ -1,0 +1,23 @@
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/close@2x.png')
+	h1.title
+
+.scroll-content.has-header
+	.page-content.animated
+		form.row
+			br
+			.col
+				.padding
+					.list
+						label.item.item-input
+							input#name(type='text', placeholder="Nombre completo")
+					.list
+						label.item.item-input
+							input#email(type='email', placeholder="Correo electronico")
+					.list
+						label.item.item-input
+							input#phone(type='tel', placeholder="Telefono")
+					
+					.text-center
+						button(type='submit').button.button-outline.button-light Enviar

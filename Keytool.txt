@@ -1,0 +1,1 @@
+keytool -genkey -alias ZoeWaterMovil -keypass zoewatermovilpassword -validity 20000 -keystore zoewater.keystore -storepass zoewaterkeystorepassword

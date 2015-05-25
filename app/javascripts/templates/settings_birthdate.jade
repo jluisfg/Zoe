@@ -1,0 +1,22 @@
+include ./button_submit_outline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/back@2x.png')
+	h1.title
+
+.scroll-content.has-header
+	.page-content
+		form.row
+			.col
+				.padding
+					h5.text-center Puedes editar tu fecha de nacimiento.
+					.list
+						label.item.item-input
+							input#birthdate(type="date", placeholder="2014-01-01", min="01-01-1900", max="2014-01-01")
+
+					.text-center Fecha de nacimiento:
+						strong#currentBirthdate #{data.birthdate}
+					
+					br
+					+submitButton()

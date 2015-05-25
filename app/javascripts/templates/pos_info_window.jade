@@ -1,0 +1,32 @@
+.infobox-wrapper
+	button.button.close.button-clear
+	#infoBox
+		h4 #{data.nombre}
+
+		dl
+			if(data.direc)
+				dt Direccion
+				dd #{data.direc}
+			if(data.ciudad)
+				dt Ciudad
+				dd #{data.ciudad}
+			if(data.estado)
+				dt Estado
+				dd #{data.estado}
+			if(data.colonia)
+				dt Colonia
+				dd #{data.colonia}
+			if(data.cp)
+				dt C.P.
+				dd #{data.cp}
+			if(data.tel)
+				dt Telefono
+				dd
+					a(href="tel:#{data.tel}") #{data.tel}
+			if(data.correo)
+				dt Email
+				dd
+					a(href="mailto:#{data.correo}") #{data.correo}
+			if(data.contacto)
+				dt Contacto
+				dd #{data.contacto}

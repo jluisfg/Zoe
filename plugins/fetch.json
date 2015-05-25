@@ -1,0 +1,98 @@
+{
+    "com.ludei.ios.webview.plus": {
+        "source": {
+            "type": "registry",
+            "id": "com.ludei.ios.webview.plus"
+        }
+    },
+    "com.phonegap.plugins.facebookconnect": {
+        "source": {
+            "type": "local",
+            "path": "../phonegap-facebook-plugin"
+        }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.camera"
+        }
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        }
+    },
+    "org.apache.cordova.plugin.ActivityIndicator": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Initsogar/cordova-activityindicator",
+            "subdir": "."
+        }
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/apache/cordova-plugin-dialogs",
+            "subdir": "."
+        }
+    },
+    "org.apache.cordova.geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.geolocation"
+        }
+    },
+    "nl.x-services.plugins.actionsheet": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/cordova-plugin-actionsheet",
+            "subdir": "."
+        }
+    },
+    "nl.x-services.plugins.socialsharing": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
+            "subdir": "."
+        }
+    },
+    "org.apache.cordova.statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.statusbar"
+        }
+    },
+    "com.stratogos.cordova.parsePushNotifications": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/asiFarran/Phonegap-Plugins-ParsePushNotifications",
+            "subdir": "."
+        }
+    },
+    "com.ideavate.activityindicator": {
+        "source": {
+            "type": "registry",
+            "id": "com.ideavate.activityindicator"
+        }
+    },
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.dialogs"
+        }
+    },
+    "nl.x-services.plugins.launchmyapp": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/LaunchMyApp-PhoneGap-Plugin.git",
+            "subdir": "."
+        }
+    }
+}

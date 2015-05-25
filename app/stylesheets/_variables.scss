@@ -1,0 +1,70 @@
+//Override ionic variables
+// Colors
+// -------------------------------
+$stable:                          #33465d !default;
+$positive:                        #485E90 !default;
+$energized:                       #57be29 !default;
+$dark:                            #2d3d52 !default;
+
+//Buttons
+$button-stable-bg:                $stable !default;
+$button-stable-text:              #fff !default;
+$button-stable-border:            #fff !default;
+$button-stable-active-bg:         darken($stable, 15%) !default;
+$button-stable-active-border:     #fff !default;
+
+$button-positive-bg:              $positive !default;
+$button-positive-text:            #fff !default;
+$button-positive-border:          #fff !default;
+$button-positive-active-bg:       darken($positive, 15%) !default;
+$button-positive-active-border:   #fff !default;
+
+$button-default-border:           #fff !default;
+$button-dark-border:              $button-default-border !default;
+$button-energized-border:         $button-default-border !default;
+
+//Bar
+$bar-dark-border:                 transparent !default;
+
+$base-background-color:           $stable !default;
+$base-color:                      #fff !default;
+
+//Tabs
+$tabs-dark-border:                $bar-dark-border !default;
+
+//Modal
+$modal-bg-color:                  transparent !default;
+
+//Cards
+$card-border-color:               transparent !default;
+$card-border-radius:              4px !default;
+
+//Font
+$font-family-sans-serif:          robotolight, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !default;
+
+//App variables
+$border-calm: 1px solid transparentize(white, 0.97);
+
+//Ionicons
+$ionicons-font-path: 'ionic/fonts' !default;
+
+// Charts
+$ct-text-color: white !default;
+$ct-grid-color: rgba(255,255,255, 0.2) !default;
+$ct-series-colors: (
+  $energized,
+  #f05b4f,
+  #f4c63d,
+  #d17905,
+  #453d3f,
+  #59922b,
+  #0544d3,
+  #6b0392,
+  #f05b4f,
+  #dda458,
+  #eacf7d,
+  #86797d,
+  #b2c326,
+  #6188e2,
+  #a748ca
+) !default;

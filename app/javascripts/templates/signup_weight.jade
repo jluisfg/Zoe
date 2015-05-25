@@ -1,0 +1,22 @@
+include ./button_submit_outline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/close@2x.png')
+	h1.title
+
+.scroll-content.has-header
+	.page-content
+		p.padding.text-center
+			| Para generar tu consumo ideal,
+			br
+			| necesitamos conocer tu peso en kilos.
+
+		form.row
+			.col
+				.padding
+					.list#settings-weight
+						label.item.item-input
+							input#weight.text-center(type='tel', placeholder="00.00", autocomplete="off", autocapitalize="off")
+					
+					+submitButton('Listo')

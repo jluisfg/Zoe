@@ -1,0 +1,23 @@
+include ./offline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/menu@2x.png')
+	h1.title
+	button.button.icon.button-clear#rightButton
+		img(src='images/reload@2x.png')
+	
+.scroll-content.has-tabs.has-header
+	.page-content
+		#pics.clearfix
+
+	include ./ion_infinite_scroll.jade
+
+#tabs.tabs.tabs-dark.tabs-icon-top
+	a.tab-item#take
+		i.icon.ion-ios7-camera-outline
+		| Tomar Foto
+
+	a.tab-item#grab
+		i.icon.ion-ios7-photos-outline
+		| Subir Foto

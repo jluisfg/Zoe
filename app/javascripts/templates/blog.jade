@@ -1,0 +1,17 @@
+include ./offline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/menu@2x.png')
+	h1.title
+	button.button.icon.button-clear#rightButton
+		img(src='images/reload@2x.png')
+
+.scroll-content.has-header
+	.page-content.animated
+		#entries
+
+	include ./ion_infinite_scroll.jade
+
+.hide
+	button#entry(type='button', data-view='Blog/entry', child)

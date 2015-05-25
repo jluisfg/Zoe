@@ -1,0 +1,23 @@
+#settings-page {
+	#settingsBottle {
+		height: 100px;
+	}
+
+	.page-content {
+		background: $stable;
+	}
+
+	&.settings-facebook {
+		p {
+			margin-top: $padding-large-vertical;
+		}
+	}
+}
+
+#settings-weight-page {
+	.item {
+		.item-content {
+			background: transparent;
+		}
+	}
+}

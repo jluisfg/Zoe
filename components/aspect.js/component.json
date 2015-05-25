@@ -1,0 +1,11 @@
+{
+  "name": "Algorithms-and-simple-technics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/aspect.js",
+  "scripts": [
+    "src/aspect.js",
+    "src/functional.js"
+  ],
+  "license": ""
+}

@@ -1,0 +1,14 @@
+include ./offline.jade
+
+.scroll-content
+	.page-content
+		.padding
+			.row
+				.col
+					.padding-large
+						img(src='images/logo-color.png').full-image
+
+			.padding-large
+				button.button.button-block.button-positive#facebook(type='button') Registro con Facebook
+				button.button.button-block.button-stable#authSignup(type='button', data-view='Auth/new', child) Registro con Mail
+				button.button.button-block.button-stable#authLogin(type='button', data-view='Auth/login', child) Ya tengo cuenta

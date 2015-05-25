@@ -1,0 +1,7 @@
+mixin submitButton(text)
+	.text-center
+		button(type='submit').button.button-outline.button-light
+			if !text
+				| Cambiar
+			else
+				| #{text}

@@ -1,0 +1,1162 @@
+2015-05-15 17:03:59.912 Zoe Water[26593:11867740] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/9D8E2B21-B6AE-4C56-B946-BEE1C1E7E5B9/Library/Cookies/Cookies.binarycookies
+2015-05-15 17:04:00.474 Zoe Water[26593:11867740] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-15 17:04:00.475 Zoe Water[26593:11867740] Multi-tasking -> Device: YES, App: YES
+2015-05-15 17:04:00.497 Zoe Water[26593:11867740] Unlimited access to network resources
+2015-05-15 17:04:00.515 Zoe Water[26593:11867740] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-15 17:04:01.037 Zoe Water[26593:11867740] Init FacebookConnect Session
+2015-05-15 17:04:01.062 Zoe Water[26593:11867740] [CDVTimer][facebookconnectplugin] 24.997950ms
+2015-05-15 17:04:01.204 Zoe Water[26593:11867740] [CDVTimer][statusbar] 142.144024ms
+2015-05-15 17:04:01.263 Zoe Water[26593:11867740] [CDVTimer][splashscreen] 58.499992ms
+2015-05-15 17:04:01.365 Zoe Water[26593:11867740] [CDVTimer][socialsharing] 102.292001ms
+2015-05-15 17:04:01.365 Zoe Water[26593:11867740] [CDVTimer][TotalPluginStartup] 328.907013ms
+2015-05-15 17:04:02.049 Zoe Water[26593:11867740] Resetting plugins due to page load.
+2015-05-15 17:04:02.390 Zoe Water[26593:11867740] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/7AFDD46D-2C8E-4113-B2E2-EDE586B2230E/Zoe%20Water.app/www/index.html
+2015-05-15 17:04:02.692 Zoe Water[26593:11867740] THREAD WARNING: ['ParsePushNotificationPlugin'] took '54.656982' ms. Plugin should use a background thread.
+2015-05-15 17:04:12.298 Zoe Water[26593:11867740] THREAD WARNING: ['FacebookConnectPlugin'] took '190.890137' ms. Plugin should use a background thread.
+2015-05-15 17:07:02.632 Zoe Water[26593:11867740] THREAD WARNING: ['FacebookConnectPlugin'] took '18.190918' ms. Plugin should use a background thread.
+2015-05-15 17:07:06.504 Zoe Water[26593:11867740] THREAD WARNING: ['ActivityIndicator'] took '43.024902' ms. Plugin should use a background thread.
+2015-05-15 17:07:06.603 Zoe Water[26593:11867740] Graph Path = /me
+2015-05-15 17:09:12.949 Zoe Water[26593:11867740] locationManager::didFailWithError (null)
+2015-05-15 17:09:12.998 Zoe Water[26593:11867740] THREAD WARNING: ['Notification'] took '17.042969' ms. Plugin should use a background thread.
+2015-05-15 17:09:13.483 Zoe Water[26593:11867740] THREAD WARNING: ['Notification'] took '138.021973' ms. Plugin should use a background thread.
+2015-05-15 17:09:18.779 Zoe Water[26593:11867740] Resetting plugins due to page load.
+2015-05-15 17:09:20.671 Zoe Water[26593:11867740] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/7AFDD46D-2C8E-4113-B2E2-EDE586B2230E/Zoe%20Water.app/www/index.html#store
+2015-05-18 08:58:01.951 Zoe Water[73056:12191583] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/4064A979-7057-47C1-864D-BC2945D8A5DF/Library/Cookies/Cookies.binarycookies
+2015-05-18 08:58:02.423 Zoe Water[73056:12191583] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 08:58:02.423 Zoe Water[73056:12191583] Multi-tasking -> Device: YES, App: YES
+2015-05-18 08:58:02.443 Zoe Water[73056:12191583] Unlimited access to network resources
+2015-05-18 08:58:02.454 Zoe Water[73056:12191583] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 08:58:02.897 Zoe Water[73056:12191583] Init FacebookConnect Session
+2015-05-18 08:58:02.956 Zoe Water[73056:12191583] [CDVTimer][facebookconnectplugin] 59.074998ms
+2015-05-18 08:58:03.093 Zoe Water[73056:12191583] [CDVTimer][statusbar] 136.502981ms
+2015-05-18 08:58:03.150 Zoe Water[73056:12191583] [CDVTimer][splashscreen] 57.322979ms
+2015-05-18 08:58:03.224 Zoe Water[73056:12191583] [CDVTimer][socialsharing] 73.970020ms
+2015-05-18 08:58:03.225 Zoe Water[73056:12191583] [CDVTimer][TotalPluginStartup] 327.558994ms
+2015-05-18 08:58:03.320 Zoe Water[73056:12191583] Resetting plugins due to page load.
+2015-05-18 08:58:03.522 Zoe Water[73056:12191583] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/C418CAED-0FA1-47B1-B976-A4D978779162/Zoe%20Water.app/www/index.html
+2015-05-18 08:58:03.754 Zoe Water[73056:12191583] THREAD WARNING: ['ParsePushNotificationPlugin'] took '17.380859' ms. Plugin should use a background thread.
+2015-05-18 08:58:04.221 Zoe Water[73056:12191583] THREAD WARNING: ['ActivityIndicator'] took '22.042969' ms. Plugin should use a background thread.
+2015-05-18 09:01:43.633 Zoe Water[73570:12194660] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/75FAEF14-C576-48C9-89CC-74AC20DAAC26/Library/Cookies/Cookies.binarycookies
+2015-05-18 09:01:43.736 Zoe Water[73570:12194660] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 09:01:43.736 Zoe Water[73570:12194660] Multi-tasking -> Device: YES, App: YES
+2015-05-18 09:01:43.739 Zoe Water[73570:12194660] Unlimited access to network resources
+2015-05-18 09:01:43.742 Zoe Water[73570:12194660] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 09:01:43.844 Zoe Water[73570:12194660] Init FacebookConnect Session
+2015-05-18 09:01:43.853 Zoe Water[73570:12194660] [CDVTimer][facebookconnectplugin] 8.760989ms
+2015-05-18 09:01:43.883 Zoe Water[73570:12194660] [CDVTimer][statusbar] 29.805005ms
+2015-05-18 09:01:43.892 Zoe Water[73570:12194660] [CDVTimer][splashscreen] 8.733988ms
+2015-05-18 09:01:43.945 Zoe Water[73570:12194660] [CDVTimer][socialsharing] 53.117990ms
+2015-05-18 09:01:43.945 Zoe Water[73570:12194660] [CDVTimer][TotalPluginStartup] 101.168990ms
+2015-05-18 09:01:44.015 Zoe Water[73570:12194660] Resetting plugins due to page load.
+2015-05-18 09:01:44.134 Zoe Water[73570:12194660] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/5E9DDA5B-479B-4280-822A-DCCB46973CF0/Zoe%20Water.app/www/index.html
+2015-05-18 09:03:41.693 Zoe Water[73971:12196867] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/2F2B2A76-8DE7-4546-88E9-BEC1858CA099/Library/Cookies/Cookies.binarycookies
+2015-05-18 09:03:41.786 Zoe Water[73971:12196867] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 09:03:41.786 Zoe Water[73971:12196867] Multi-tasking -> Device: YES, App: YES
+2015-05-18 09:03:41.789 Zoe Water[73971:12196867] Unlimited access to network resources
+2015-05-18 09:03:41.792 Zoe Water[73971:12196867] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 09:03:41.893 Zoe Water[73971:12196867] Init FacebookConnect Session
+2015-05-18 09:03:41.900 Zoe Water[73971:12196867] [CDVTimer][facebookconnectplugin] 6.731987ms
+2015-05-18 09:03:41.925 Zoe Water[73971:12196867] [CDVTimer][statusbar] 24.706006ms
+2015-05-18 09:03:41.931 Zoe Water[73971:12196867] [CDVTimer][splashscreen] 5.716026ms
+2015-05-18 09:03:41.983 Zoe Water[73971:12196867] [CDVTimer][socialsharing] 52.491009ms
+2015-05-18 09:03:41.983 Zoe Water[73971:12196867] [CDVTimer][TotalPluginStartup] 90.382993ms
+2015-05-18 09:03:42.048 Zoe Water[73971:12196867] Resetting plugins due to page load.
+2015-05-18 09:03:42.200 Zoe Water[73971:12196867] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/05CE3078-D1ED-4E4F-881A-70A43A5FDAD8/Zoe%20Water.app/www/index.html
+2015-05-18 09:11:07.152 Zoe Water[73971:12196867] THREAD WARNING: ['SocialSharing'] took '238.172119' ms. Plugin should use a background thread.
+2015-05-18 09:11:30.724 Zoe Water[73971:12200375] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 09:12:16.410 Zoe Water[73971:12201359] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 09:12:23.441 Zoe Water[73971:12201360] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 10:34:39.926 Zoe Water[73971:12196867] THREAD WARNING: ['SocialSharing'] took '16.452148' ms. Plugin should use a background thread.
+2015-05-18 10:35:04.803 Zoe Water[73971:12235419] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 10:35:05.379 Zoe Water[73971:12235419] Camera.getPicture: source type 1 not available.
+2015-05-18 10:35:05.400 Zoe Water[73971:12196867] THREAD WARNING: ['Notification'] took '17.293213' ms. Plugin should use a background thread.
+2015-05-18 10:35:34.719 Zoe Water[73971:12196867] THREAD WARNING: ['SocialSharing'] took '537.407227' ms. Plugin should use a background thread.
+2015-05-18 10:35:52.778 Zoe Water[73971:12235557] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 10:42:17.579 Zoe Water[79156:12239325] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/5CAE7F4B-E7E9-4797-AB51-14B0D9B0C95E/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:42:17.758 Zoe Water[79156:12239325] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:42:17.759 Zoe Water[79156:12239325] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:42:17.775 Zoe Water[79156:12239325] Unlimited access to network resources
+2015-05-18 10:42:17.783 Zoe Water[79156:12239325] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:42:18.011 Zoe Water[79156:12239325] Init FacebookConnect Session
+2015-05-18 10:42:18.027 Zoe Water[79156:12239325] [CDVTimer][facebookconnectplugin] 15.422046ms
+2015-05-18 10:42:18.098 Zoe Water[79156:12239325] [CDVTimer][statusbar] 71.084023ms
+2015-05-18 10:42:18.133 Zoe Water[79156:12239325] [CDVTimer][splashscreen] 35.103023ms
+2015-05-18 10:42:18.185 Zoe Water[79156:12239325] [CDVTimer][socialsharing] 51.048994ms
+2015-05-18 10:42:18.185 Zoe Water[79156:12239325] [CDVTimer][TotalPluginStartup] 173.354983ms
+2015-05-18 10:42:18.267 Zoe Water[79156:12239325] Resetting plugins due to page load.
+2015-05-18 10:42:18.525 Zoe Water[79156:12239325] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/9E61A583-9DFF-40CF-95CC-12F4E9F5AB43/Zoe%20Water.app/www/index.html
+2015-05-18 10:42:18.701 Zoe Water[79156:12239325] THREAD WARNING: ['ParsePushNotificationPlugin'] took '16.749268' ms. Plugin should use a background thread.
+2015-05-18 10:42:19.102 Zoe Water[79156:12239325] THREAD WARNING: ['ActivityIndicator'] took '19.542969' ms. Plugin should use a background thread.
+2015-05-18 10:42:34.982 Zoe Water[79156:12239325] THREAD WARNING: ['SocialSharing'] took '639.728027' ms. Plugin should use a background thread.
+2015-05-18 10:43:15.358 Zoe Water[79156:12239858] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 10:43:19.621 Zoe Water[79156:12239325] THREAD WARNING: ['SocialSharing'] took '1675.369873' ms. Plugin should use a background thread.
+2015-05-18 10:43:34.714 Zoe Water[79156:12240232] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 10:52:36.264 Zoe Water[79958:12245404] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/B14B34E9-4035-41FA-8B5E-ADF75E997245/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:52:36.392 Zoe Water[79958:12245404] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:52:36.393 Zoe Water[79958:12245404] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:52:36.396 Zoe Water[79958:12245404] Unlimited access to network resources
+2015-05-18 10:52:36.399 Zoe Water[79958:12245404] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:52:36.521 Zoe Water[79958:12245404] Init FacebookConnect Session
+2015-05-18 10:52:36.530 Zoe Water[79958:12245404] [CDVTimer][facebookconnectplugin] 8.524001ms
+2015-05-18 10:52:36.564 Zoe Water[79958:12245404] [CDVTimer][statusbar] 34.232974ms
+2015-05-18 10:52:36.573 Zoe Water[79958:12245404] [CDVTimer][splashscreen] 8.446991ms
+2015-05-18 10:52:36.634 Zoe Water[79958:12245404] [CDVTimer][socialsharing] 60.895979ms
+2015-05-18 10:52:36.634 Zoe Water[79958:12245404] [CDVTimer][TotalPluginStartup] 112.993002ms
+2015-05-18 10:52:36.713 Zoe Water[79958:12245404] Resetting plugins due to page load.
+2015-05-18 10:52:36.911 Zoe Water[79958:12245404] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/17E8524C-52E1-43EA-A52D-6F5821B85D51/Zoe%20Water.app/www/index.html
+2015-05-18 10:54:22.775 Zoe Water[80329:12246875] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/4FE089F9-35B0-401B-89D3-46704E1A68C1/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:54:22.890 Zoe Water[80329:12246875] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:54:22.891 Zoe Water[80329:12246875] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:54:22.895 Zoe Water[80329:12246875] Unlimited access to network resources
+2015-05-18 10:54:22.899 Zoe Water[80329:12246875] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:54:23.019 Zoe Water[80329:12246875] Init FacebookConnect Session
+2015-05-18 10:54:23.027 Zoe Water[80329:12246875] [CDVTimer][facebookconnectplugin] 8.041978ms
+2015-05-18 10:54:23.053 Zoe Water[80329:12246875] [CDVTimer][statusbar] 25.807977ms
+2015-05-18 10:54:23.060 Zoe Water[80329:12246875] [CDVTimer][splashscreen] 7.169008ms
+2015-05-18 10:54:23.119 Zoe Water[80329:12246875] [CDVTimer][socialsharing] 57.803988ms
+2015-05-18 10:54:23.119 Zoe Water[80329:12246875] [CDVTimer][TotalPluginStartup] 99.664032ms
+2015-05-18 10:54:23.206 Zoe Water[80329:12246875] Resetting plugins due to page load.
+2015-05-18 10:54:23.411 Zoe Water[80329:12246875] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/0A7DFE27-8BD3-45AB-827C-AF17E3B32C20/Zoe%20Water.app/www/index.html
+2015-05-18 10:54:23.602 Zoe Water[80329:12246875] THREAD WARNING: ['ParsePushNotificationPlugin'] took '11.640625' ms. Plugin should use a background thread.
+2015-05-18 10:55:15.149 Zoe Water[80671:12248162] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/95B55FA5-D326-4216-92A6-11B0F1D88401/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:55:15.249 Zoe Water[80671:12248162] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:55:15.250 Zoe Water[80671:12248162] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:55:15.254 Zoe Water[80671:12248162] Unlimited access to network resources
+2015-05-18 10:55:15.257 Zoe Water[80671:12248162] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:55:15.373 Zoe Water[80671:12248162] Init FacebookConnect Session
+2015-05-18 10:55:15.380 Zoe Water[80671:12248162] [CDVTimer][facebookconnectplugin] 6.491005ms
+2015-05-18 10:55:15.403 Zoe Water[80671:12248162] [CDVTimer][statusbar] 23.271024ms
+2015-05-18 10:55:15.410 Zoe Water[80671:12248162] [CDVTimer][splashscreen] 7.188022ms
+2015-05-18 10:55:15.471 Zoe Water[80671:12248162] [CDVTimer][socialsharing] 60.396969ms
+2015-05-18 10:55:15.471 Zoe Water[80671:12248162] [CDVTimer][TotalPluginStartup] 98.278999ms
+2015-05-18 10:55:15.548 Zoe Water[80671:12248162] Resetting plugins due to page load.
+2015-05-18 10:55:15.696 Zoe Water[80671:12248162] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/BFCB2367-283B-4455-BFE5-E3E518742D1D/Zoe%20Water.app/www/index.html
+2015-05-18 10:55:48.982 Zoe Water[80980:12249105] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/A06644CB-DC27-4176-83F0-DEE3080BD596/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:55:49.081 Zoe Water[80980:12249105] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:55:49.081 Zoe Water[80980:12249105] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:55:49.085 Zoe Water[80980:12249105] Unlimited access to network resources
+2015-05-18 10:55:49.088 Zoe Water[80980:12249105] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:55:49.203 Zoe Water[80980:12249105] Init FacebookConnect Session
+2015-05-18 10:55:49.210 Zoe Water[80980:12249105] [CDVTimer][facebookconnectplugin] 7.008970ms
+2015-05-18 10:55:49.234 Zoe Water[80980:12249105] [CDVTimer][statusbar] 23.613036ms
+2015-05-18 10:55:49.240 Zoe Water[80980:12249105] [CDVTimer][splashscreen] 6.543994ms
+2015-05-18 10:55:49.303 Zoe Water[80980:12249105] [CDVTimer][socialsharing] 62.431037ms
+2015-05-18 10:55:49.303 Zoe Water[80980:12249105] [CDVTimer][TotalPluginStartup] 100.549042ms
+2015-05-18 10:55:49.379 Zoe Water[80980:12249105] Resetting plugins due to page load.
+2015-05-18 10:55:49.542 Zoe Water[80980:12249105] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/A1250EA0-3F88-472B-B926-2F8E0397B9A7/Zoe%20Water.app/www/index.html
+2015-05-18 10:57:04.984 Zoe Water[81330:12250217] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/E6B2D9A2-4190-4CE3-AC2E-1DF70E3CB47A/Library/Cookies/Cookies.binarycookies
+2015-05-18 10:57:05.056 Zoe Water[81330:12250217] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 10:57:05.056 Zoe Water[81330:12250217] Multi-tasking -> Device: YES, App: YES
+2015-05-18 10:57:05.058 Zoe Water[81330:12250217] Unlimited access to network resources
+2015-05-18 10:57:05.061 Zoe Water[81330:12250217] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 10:57:05.144 Zoe Water[81330:12250217] Init FacebookConnect Session
+2015-05-18 10:57:05.149 Zoe Water[81330:12250217] [CDVTimer][facebookconnectplugin] 5.432010ms
+2015-05-18 10:57:05.166 Zoe Water[81330:12250217] [CDVTimer][statusbar] 16.610980ms
+2015-05-18 10:57:05.171 Zoe Water[81330:12250217] [CDVTimer][splashscreen] 4.891992ms
+2015-05-18 10:57:05.215 Zoe Water[81330:12250217] [CDVTimer][socialsharing] 43.673992ms
+2015-05-18 10:57:05.215 Zoe Water[81330:12250217] [CDVTimer][TotalPluginStartup] 71.300983ms
+2015-05-18 10:57:05.265 Zoe Water[81330:12250217] Resetting plugins due to page load.
+2015-05-18 10:57:05.381 Zoe Water[81330:12250217] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/13A7DD24-229B-415B-AFD7-C2146376EEE2/Zoe%20Water.app/www/index.html
+2015-05-18 11:13:22.396 Zoe Water[82441:12257473] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/169B2B57-78CA-45DC-83A9-D4CA781D141D/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:13:22.954 Zoe Water[82441:12257473] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:13:22.955 Zoe Water[82441:12257473] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:13:22.983 Zoe Water[82441:12257473] Unlimited access to network resources
+2015-05-18 11:13:23.004 Zoe Water[82441:12257473] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:13:23.598 Zoe Water[82441:12257473] Init FacebookConnect Session
+2015-05-18 11:13:23.675 Zoe Water[82441:12257473] [CDVTimer][facebookconnectplugin] 77.356040ms
+2015-05-18 11:13:23.836 Zoe Water[82441:12257473] [CDVTimer][statusbar] 160.899043ms
+2015-05-18 11:13:23.897 Zoe Water[82441:12257473] [CDVTimer][splashscreen] 60.235977ms
+2015-05-18 11:13:24.005 Zoe Water[82441:12257473] [CDVTimer][socialsharing] 108.429015ms
+2015-05-18 11:13:24.006 Zoe Water[82441:12257473] [CDVTimer][TotalPluginStartup] 407.980978ms
+2015-05-18 11:13:24.205 Zoe Water[82441:12257473] Resetting plugins due to page load.
+2015-05-18 11:13:24.578 Zoe Water[82441:12257473] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/DDA215D1-82B8-4CD0-9BE8-DA2DC94DD668/Zoe%20Water.app/www/index.html
+2015-05-18 11:13:24.901 Zoe Water[82441:12257473] THREAD WARNING: ['ParsePushNotificationPlugin'] took '27.587891' ms. Plugin should use a background thread.
+2015-05-18 11:13:25.498 Zoe Water[82441:12257473] THREAD WARNING: ['ActivityIndicator'] took '28.209961' ms. Plugin should use a background thread.
+2015-05-18 11:14:42.717 Zoe Water[82805:12259010] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/A2E6D920-8B5E-4447-9317-0468B603F217/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:14:42.825 Zoe Water[82805:12259010] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:14:42.827 Zoe Water[82805:12259010] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:14:42.831 Zoe Water[82805:12259010] Unlimited access to network resources
+2015-05-18 11:14:42.835 Zoe Water[82805:12259010] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:14:42.953 Zoe Water[82805:12259010] Init FacebookConnect Session
+2015-05-18 11:14:42.961 Zoe Water[82805:12259010] [CDVTimer][facebookconnectplugin] 7.854998ms
+2015-05-18 11:14:42.990 Zoe Water[82805:12259010] [CDVTimer][statusbar] 28.680980ms
+2015-05-18 11:14:42.997 Zoe Water[82805:12259010] [CDVTimer][splashscreen] 6.708980ms
+2015-05-18 11:14:43.061 Zoe Water[82805:12259010] [CDVTimer][socialsharing] 63.621998ms
+2015-05-18 11:14:43.061 Zoe Water[82805:12259010] [CDVTimer][TotalPluginStartup] 107.897043ms
+2015-05-18 11:14:43.169 Zoe Water[82805:12259010] Resetting plugins due to page load.
+2015-05-18 11:14:43.353 Zoe Water[82805:12259010] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/31F738F3-8706-44C5-8C6F-22324D216CAA/Zoe%20Water.app/www/index.html
+2015-05-18 11:14:43.534 Zoe Water[82805:12259010] THREAD WARNING: ['ParsePushNotificationPlugin'] took '11.434082' ms. Plugin should use a background thread.
+2015-05-18 11:15:47.263 Zoe Water[83145:12260448] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/4F1809FF-AD66-40F0-9420-98B9EE4B0C36/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:15:47.428 Zoe Water[83145:12260448] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:15:47.429 Zoe Water[83145:12260448] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:15:47.432 Zoe Water[83145:12260448] Unlimited access to network resources
+2015-05-18 11:15:47.437 Zoe Water[83145:12260448] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:15:47.599 Zoe Water[83145:12260448] Init FacebookConnect Session
+2015-05-18 11:15:47.609 Zoe Water[83145:12260448] [CDVTimer][facebookconnectplugin] 9.936035ms
+2015-05-18 11:15:47.639 Zoe Water[83145:12260448] [CDVTimer][statusbar] 29.786944ms
+2015-05-18 11:15:47.649 Zoe Water[83145:12260448] [CDVTimer][splashscreen] 9.917974ms
+2015-05-18 11:15:47.748 Zoe Water[83145:12260448] [CDVTimer][socialsharing] 98.699987ms
+2015-05-18 11:15:47.749 Zoe Water[83145:12260448] [CDVTimer][TotalPluginStartup] 149.414003ms
+2015-05-18 11:15:47.859 Zoe Water[83145:12260448] Resetting plugins due to page load.
+2015-05-18 11:15:48.074 Zoe Water[83145:12260448] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/7B0E2986-2049-49C8-9F4D-3CD1D6FCA162/Zoe%20Water.app/www/index.html
+2015-05-18 11:15:48.301 Zoe Water[83145:12260448] THREAD WARNING: ['ParsePushNotificationPlugin'] took '11.092041' ms. Plugin should use a background thread.
+2015-05-18 11:18:56.450 Zoe Water[83595:12262603] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/DACA51CC-D7EE-4DF9-97A0-A2EBEA68577B/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:18:56.547 Zoe Water[83595:12262603] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:18:56.548 Zoe Water[83595:12262603] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:18:56.551 Zoe Water[83595:12262603] Unlimited access to network resources
+2015-05-18 11:18:56.554 Zoe Water[83595:12262603] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:18:56.665 Zoe Water[83595:12262603] Init FacebookConnect Session
+2015-05-18 11:18:56.673 Zoe Water[83595:12262603] [CDVTimer][facebookconnectplugin] 7.839978ms
+2015-05-18 11:18:56.695 Zoe Water[83595:12262603] [CDVTimer][statusbar] 22.289038ms
+2015-05-18 11:18:56.702 Zoe Water[83595:12262603] [CDVTimer][splashscreen] 6.163001ms
+2015-05-18 11:18:56.760 Zoe Water[83595:12262603] [CDVTimer][socialsharing] 58.516979ms
+2015-05-18 11:18:56.761 Zoe Water[83595:12262603] [CDVTimer][TotalPluginStartup] 95.658004ms
+2015-05-18 11:18:56.835 Zoe Water[83595:12262603] Resetting plugins due to page load.
+2015-05-18 11:18:57.012 Zoe Water[83595:12262603] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/F2BFB3E6-9434-4AC5-A0FD-3FD0302455A4/Zoe%20Water.app/www/index.html
+2015-05-18 11:22:09.262 Zoe Water[84045:12264594] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/BF79434F-393A-4474-A687-9D3FD4E56997/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:22:09.359 Zoe Water[84045:12264594] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:22:09.359 Zoe Water[84045:12264594] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:22:09.362 Zoe Water[84045:12264594] Unlimited access to network resources
+2015-05-18 11:22:09.367 Zoe Water[84045:12264594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:22:09.475 Zoe Water[84045:12264594] Init FacebookConnect Session
+2015-05-18 11:22:09.483 Zoe Water[84045:12264594] [CDVTimer][facebookconnectplugin] 8.047998ms
+2015-05-18 11:22:09.505 Zoe Water[84045:12264594] [CDVTimer][statusbar] 22.180974ms
+2015-05-18 11:22:09.512 Zoe Water[84045:12264594] [CDVTimer][splashscreen] 5.988002ms
+2015-05-18 11:22:09.569 Zoe Water[84045:12264594] [CDVTimer][socialsharing] 57.340980ms
+2015-05-18 11:22:09.569 Zoe Water[84045:12264594] [CDVTimer][TotalPluginStartup] 94.452977ms
+2015-05-18 11:22:09.644 Zoe Water[84045:12264594] Resetting plugins due to page load.
+2015-05-18 11:22:09.812 Zoe Water[84045:12264594] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/51057DD6-A505-4158-B7ED-6B7E1FDCF2F0/Zoe%20Water.app/www/index.html
+2015-05-18 11:24:39.651 Zoe Water[84468:12266460] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/86ADE25C-A4C9-409E-8524-702EE765195B/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:24:39.792 Zoe Water[84468:12266460] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:24:39.792 Zoe Water[84468:12266460] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:24:39.796 Zoe Water[84468:12266460] Unlimited access to network resources
+2015-05-18 11:24:39.801 Zoe Water[84468:12266460] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:24:39.936 Zoe Water[84468:12266460] Init FacebookConnect Session
+2015-05-18 11:24:39.946 Zoe Water[84468:12266460] [CDVTimer][facebookconnectplugin] 10.494053ms
+2015-05-18 11:24:39.989 Zoe Water[84468:12266460] [CDVTimer][statusbar] 42.775989ms
+2015-05-18 11:24:40.000 Zoe Water[84468:12266460] [CDVTimer][splashscreen] 10.574043ms
+2015-05-18 11:24:40.080 Zoe Water[84468:12266460] [CDVTimer][socialsharing] 79.877973ms
+2015-05-18 11:24:40.081 Zoe Water[84468:12266460] [CDVTimer][TotalPluginStartup] 144.935012ms
+2015-05-18 11:24:40.196 Zoe Water[84468:12266460] Resetting plugins due to page load.
+2015-05-18 11:24:40.454 Zoe Water[84468:12266460] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/AA6AC36E-7382-4C5B-81F8-4F2F7774F0E0/Zoe%20Water.app/www/index.html
+2015-05-18 11:29:31.180 Zoe Water[84992:12268765] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/1303FCD5-4719-45E7-809A-62D1CFA8E7DD/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:29:31.289 Zoe Water[84992:12268765] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:29:31.289 Zoe Water[84992:12268765] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:29:31.293 Zoe Water[84992:12268765] Unlimited access to network resources
+2015-05-18 11:29:31.296 Zoe Water[84992:12268765] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:29:31.435 Zoe Water[84992:12268765] Init FacebookConnect Session
+2015-05-18 11:29:31.443 Zoe Water[84992:12268765] [CDVTimer][facebookconnectplugin] 7.745981ms
+2015-05-18 11:29:31.470 Zoe Water[84992:12268765] [CDVTimer][statusbar] 27.173996ms
+2015-05-18 11:29:31.478 Zoe Water[84992:12268765] [CDVTimer][splashscreen] 6.950974ms
+2015-05-18 11:29:31.552 Zoe Water[84992:12268765] [CDVTimer][socialsharing] 73.672950ms
+2015-05-18 11:29:31.552 Zoe Water[84992:12268765] [CDVTimer][TotalPluginStartup] 116.886973ms
+2015-05-18 11:29:31.640 Zoe Water[84992:12268765] Resetting plugins due to page load.
+2015-05-18 11:29:31.850 Zoe Water[84992:12268765] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/869C9B55-6692-44DA-955E-FAA1E4A0C688/Zoe%20Water.app/www/index.html
+2015-05-18 11:29:32.366 Zoe Water[84992:12268765] THREAD WARNING: ['ActivityIndicator'] took '11.805908' ms. Plugin should use a background thread.
+2015-05-18 11:39:01.629 Zoe Water[85746:12273227] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/BFFBDEDD-954D-43ED-A01A-BED3727C8BED/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:39:01.728 Zoe Water[85746:12273227] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:39:01.729 Zoe Water[85746:12273227] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:39:01.732 Zoe Water[85746:12273227] Unlimited access to network resources
+2015-05-18 11:39:01.736 Zoe Water[85746:12273227] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:39:01.847 Zoe Water[85746:12273227] Init FacebookConnect Session
+2015-05-18 11:39:01.856 Zoe Water[85746:12273227] [CDVTimer][facebookconnectplugin] 9.171963ms
+2015-05-18 11:39:01.879 Zoe Water[85746:12273227] [CDVTimer][statusbar] 22.341013ms
+2015-05-18 11:39:01.885 Zoe Water[85746:12273227] [CDVTimer][splashscreen] 5.846024ms
+2015-05-18 11:39:01.947 Zoe Water[85746:12273227] [CDVTimer][socialsharing] 61.302006ms
+2015-05-18 11:39:01.947 Zoe Water[85746:12273227] [CDVTimer][TotalPluginStartup] 99.583030ms
+2015-05-18 11:39:02.024 Zoe Water[85746:12273227] Resetting plugins due to page load.
+2015-05-18 11:39:02.187 Zoe Water[85746:12273227] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/E3D74CAB-B582-46B4-9C7A-5E5390FBF7F2/Zoe%20Water.app/www/index.html
+2015-05-18 11:40:06.969 Zoe Water[86096:12274492] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/D212CC9B-A687-4D4C-A9D0-3EF530914306/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:40:07.061 Zoe Water[86096:12274492] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:40:07.062 Zoe Water[86096:12274492] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:40:07.066 Zoe Water[86096:12274492] Unlimited access to network resources
+2015-05-18 11:40:07.069 Zoe Water[86096:12274492] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:40:07.182 Zoe Water[86096:12274492] Init FacebookConnect Session
+2015-05-18 11:40:07.188 Zoe Water[86096:12274492] [CDVTimer][facebookconnectplugin] 6.648004ms
+2015-05-18 11:40:07.209 Zoe Water[86096:12274492] [CDVTimer][statusbar] 20.237029ms
+2015-05-18 11:40:07.215 Zoe Water[86096:12274492] [CDVTimer][splashscreen] 5.998015ms
+2015-05-18 11:40:07.272 Zoe Water[86096:12274492] [CDVTimer][socialsharing] 57.097018ms
+2015-05-18 11:40:07.272 Zoe Water[86096:12274492] [CDVTimer][TotalPluginStartup] 90.811014ms
+2015-05-18 11:40:07.346 Zoe Water[86096:12274492] Resetting plugins due to page load.
+2015-05-18 11:40:07.523 Zoe Water[86096:12274492] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/DE0A592D-6742-4BD8-A983-E2A5ED1C93EC/Zoe%20Water.app/www/index.html
+2015-05-18 11:40:07.695 Zoe Water[86096:12274492] THREAD WARNING: ['ParsePushNotificationPlugin'] took '12.047119' ms. Plugin should use a background thread.
+2015-05-18 11:45:44.008 Zoe Water[86692:12278684] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/3948B0C9-C730-4167-9BEE-EAB8260E2B50/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:45:44.203 Zoe Water[86692:12278684] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:45:44.203 Zoe Water[86692:12278684] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:45:44.208 Zoe Water[86692:12278684] Unlimited access to network resources
+2015-05-18 11:45:44.211 Zoe Water[86692:12278684] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:45:44.362 Zoe Water[86692:12278684] Init FacebookConnect Session
+2015-05-18 11:45:44.375 Zoe Water[86692:12278684] [CDVTimer][facebookconnectplugin] 12.722015ms
+2015-05-18 11:45:44.415 Zoe Water[86692:12278684] [CDVTimer][statusbar] 40.310025ms
+2015-05-18 11:45:44.426 Zoe Water[86692:12278684] [CDVTimer][splashscreen] 10.481954ms
+2015-05-18 11:45:44.489 Zoe Water[86692:12278684] [CDVTimer][socialsharing] 62.337995ms
+2015-05-18 11:45:44.489 Zoe Water[86692:12278684] [CDVTimer][TotalPluginStartup] 126.712978ms
+2015-05-18 11:45:44.563 Zoe Water[86692:12278684] Resetting plugins due to page load.
+2015-05-18 11:45:44.756 Zoe Water[86692:12278684] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/0AE2BD2B-C8F2-4F31-AA67-85B63CC8E2F7/Zoe%20Water.app/www/index.html
+2015-05-18 11:45:44.919 Zoe Water[86692:12278684] THREAD WARNING: ['ParsePushNotificationPlugin'] took '12.523926' ms. Plugin should use a background thread.
+2015-05-18 11:47:15.204 Zoe Water[87063:12280177] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/3D4CBF40-B6E2-4402-953F-A429F343E8C4/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:47:15.305 Zoe Water[87063:12280177] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:47:15.306 Zoe Water[87063:12280177] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:47:15.309 Zoe Water[87063:12280177] Unlimited access to network resources
+2015-05-18 11:47:15.312 Zoe Water[87063:12280177] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:47:15.426 Zoe Water[87063:12280177] Init FacebookConnect Session
+2015-05-18 11:47:15.434 Zoe Water[87063:12280177] [CDVTimer][facebookconnectplugin] 8.017004ms
+2015-05-18 11:47:15.460 Zoe Water[87063:12280177] [CDVTimer][statusbar] 26.106000ms
+2015-05-18 11:47:15.468 Zoe Water[87063:12280177] [CDVTimer][splashscreen] 7.341981ms
+2015-05-18 11:47:15.526 Zoe Water[87063:12280177] [CDVTimer][socialsharing] 58.736026ms
+2015-05-18 11:47:15.527 Zoe Water[87063:12280177] [CDVTimer][TotalPluginStartup] 101.050019ms
+2015-05-18 11:47:15.596 Zoe Water[87063:12280177] Resetting plugins due to page load.
+2015-05-18 11:47:15.738 Zoe Water[87063:12280177] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/7CA178F4-070B-459A-A662-FD3DA2B436EB/Zoe%20Water.app/www/index.html
+2015-05-18 11:47:16.416 Zoe Water[87063:12280177] THREAD WARNING: ['ParsePushNotificationPlugin'] took '517.580078' ms. Plugin should use a background thread.
+2015-05-18 11:50:43.770 Zoe Water[87543:12287713] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/59E47AE5-CBA0-48AA-A748-47480FB85F8D/Library/Cookies/Cookies.binarycookies
+2015-05-18 11:50:43.853 Zoe Water[87543:12287713] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 11:50:43.854 Zoe Water[87543:12287713] Multi-tasking -> Device: YES, App: YES
+2015-05-18 11:50:43.856 Zoe Water[87543:12287713] Unlimited access to network resources
+2015-05-18 11:50:43.859 Zoe Water[87543:12287713] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 11:50:43.953 Zoe Water[87543:12287713] Init FacebookConnect Session
+2015-05-18 11:50:43.961 Zoe Water[87543:12287713] [CDVTimer][facebookconnectplugin] 7.821977ms
+2015-05-18 11:50:43.987 Zoe Water[87543:12287713] [CDVTimer][statusbar] 26.090980ms
+2015-05-18 11:50:43.995 Zoe Water[87543:12287713] [CDVTimer][splashscreen] 7.122993ms
+2015-05-18 11:50:44.054 Zoe Water[87543:12287713] [CDVTimer][socialsharing] 58.871984ms
+2015-05-18 11:50:44.054 Zoe Water[87543:12287713] [CDVTimer][TotalPluginStartup] 100.687027ms
+2015-05-18 11:50:44.116 Zoe Water[87543:12287713] Resetting plugins due to page load.
+2015-05-18 11:50:44.304 Zoe Water[87543:12287713] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/1B34945B-DD4E-448A-9D9A-5FDE1273B693/Zoe%20Water.app/www/index.html
+2015-05-18 11:50:44.769 Zoe Water[87543:12287713] THREAD WARNING: ['ActivityIndicator'] took '12.759033' ms. Plugin should use a background thread.
+2015-05-18 12:00:00.119 Zoe Water[87543:12287713] THREAD WARNING: ['Notification'] took '96.281006' ms. Plugin should use a background thread.
+2015-05-18 12:03:22.298 Zoe Water[88501:12294328] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/6711309C-A2AB-4E10-975C-1BFA3839A108/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:03:22.461 Zoe Water[88501:12294328] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:03:22.462 Zoe Water[88501:12294328] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:03:22.466 Zoe Water[88501:12294328] Unlimited access to network resources
+2015-05-18 12:03:22.470 Zoe Water[88501:12294328] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:03:22.630 Zoe Water[88501:12294328] Init FacebookConnect Session
+2015-05-18 12:03:22.640 Zoe Water[88501:12294328] [CDVTimer][facebookconnectplugin] 9.396017ms
+2015-05-18 12:03:22.696 Zoe Water[88501:12294328] [CDVTimer][statusbar] 55.997014ms
+2015-05-18 12:03:22.706 Zoe Water[88501:12294328] [CDVTimer][splashscreen] 10.021031ms
+2015-05-18 12:03:22.785 Zoe Water[88501:12294328] [CDVTimer][socialsharing] 78.846991ms
+2015-05-18 12:03:22.785 Zoe Water[88501:12294328] [CDVTimer][TotalPluginStartup] 155.259013ms
+2015-05-18 12:03:22.899 Zoe Water[88501:12294328] Resetting plugins due to page load.
+2015-05-18 12:03:23.158 Zoe Water[88501:12294328] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/E4A9302C-5209-4D2C-9A85-D952E498A1DA/Zoe%20Water.app/www/index.html
+2015-05-18 12:03:23.382 Zoe Water[88501:12294328] THREAD WARNING: ['ParsePushNotificationPlugin'] took '11.984131' ms. Plugin should use a background thread.
+2015-05-18 12:12:57.250 Zoe Water[88501:12294328] THREAD WARNING: ['Notification'] took '57.777832' ms. Plugin should use a background thread.
+2015-05-18 12:15:48.871 Zoe Water[89400:12300407] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/CAF48ECB-1D80-48E0-9279-A8287595C0EF/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:15:49.214 Zoe Water[89400:12300407] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:15:49.215 Zoe Water[89400:12300407] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:15:49.242 Zoe Water[89400:12300407] Unlimited access to network resources
+2015-05-18 12:15:49.259 Zoe Water[89400:12300407] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:15:49.643 Zoe Water[89400:12300407] Init FacebookConnect Session
+2015-05-18 12:15:49.733 Zoe Water[89400:12300407] [CDVTimer][facebookconnectplugin] 89.695036ms
+2015-05-18 12:15:49.860 Zoe Water[89400:12300407] [CDVTimer][statusbar] 126.182973ms
+2015-05-18 12:15:49.927 Zoe Water[89400:12300407] [CDVTimer][splashscreen] 66.599011ms
+2015-05-18 12:15:50.055 Zoe Water[89400:12300407] [CDVTimer][socialsharing] 128.142059ms
+2015-05-18 12:15:50.055 Zoe Water[89400:12300407] [CDVTimer][TotalPluginStartup] 411.950052ms
+2015-05-18 12:15:50.199 Zoe Water[89400:12300407] Resetting plugins due to page load.
+2015-05-18 12:15:50.591 Zoe Water[89400:12300407] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/60307A87-E01F-4AAF-9507-209B397296BE/Zoe%20Water.app/www/index.html
+2015-05-18 12:15:50.989 Zoe Water[89400:12300407] THREAD WARNING: ['ParsePushNotificationPlugin'] took '33.305176' ms. Plugin should use a background thread.
+2015-05-18 12:15:51.726 Zoe Water[89400:12300407] THREAD WARNING: ['ActivityIndicator'] took '29.787842' ms. Plugin should use a background thread.
+2015-05-18 12:28:14.688 Zoe Water[90306:12306827] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/177AE782-3E73-4399-A79D-2352AE571AD2/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:28:15.142 Zoe Water[90306:12306827] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:28:15.143 Zoe Water[90306:12306827] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:28:15.170 Zoe Water[90306:12306827] Unlimited access to network resources
+2015-05-18 12:28:15.196 Zoe Water[90306:12306827] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:28:15.666 Zoe Water[90306:12306827] Init FacebookConnect Session
+2015-05-18 12:28:15.762 Zoe Water[90306:12306827] [CDVTimer][facebookconnectplugin] 95.862031ms
+2015-05-18 12:28:15.916 Zoe Water[90306:12306827] [CDVTimer][statusbar] 153.523028ms
+2015-05-18 12:28:15.986 Zoe Water[90306:12306827] [CDVTimer][splashscreen] 69.581985ms
+2015-05-18 12:28:16.101 Zoe Water[90306:12306827] [CDVTimer][socialsharing] 114.862978ms
+2015-05-18 12:28:16.101 Zoe Water[90306:12306827] [CDVTimer][TotalPluginStartup] 435.105979ms
+2015-05-18 12:28:16.339 Zoe Water[90306:12306827] Resetting plugins due to page load.
+2015-05-18 12:28:16.825 Zoe Water[90306:12306827] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/29DA1236-6E74-4C17-8680-B400CEF714EF/Zoe%20Water.app/www/index.html
+2015-05-18 12:28:17.108 Zoe Water[90306:12306827] THREAD WARNING: ['ParsePushNotificationPlugin'] took '21.272949' ms. Plugin should use a background thread.
+2015-05-18 12:28:17.834 Zoe Water[90306:12306827] THREAD WARNING: ['ActivityIndicator'] took '27.681885' ms. Plugin should use a background thread.
+2015-05-18 12:32:40.063 Zoe Water[90306:12306827] THREAD WARNING: ['Notification'] took '40.924072' ms. Plugin should use a background thread.
+2015-05-18 12:32:42.108 Zoe Water[90306:12309266] Camera.getPicture: source type 1 not available.
+2015-05-18 12:32:42.132 Zoe Water[90306:12306827] THREAD WARNING: ['Notification'] took '21.352783' ms. Plugin should use a background thread.
+2015-05-18 12:34:46.351 Zoe Water[90928:12311029] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/5DF571BD-C6CA-4AAD-9F54-064EEBA3F8F4/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:34:46.493 Zoe Water[90928:12311029] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:34:46.493 Zoe Water[90928:12311029] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:34:46.497 Zoe Water[90928:12311029] Unlimited access to network resources
+2015-05-18 12:34:46.501 Zoe Water[90928:12311029] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:34:46.639 Zoe Water[90928:12311029] Init FacebookConnect Session
+2015-05-18 12:34:46.649 Zoe Water[90928:12311029] [CDVTimer][facebookconnectplugin] 9.958982ms
+2015-05-18 12:34:46.695 Zoe Water[90928:12311029] [CDVTimer][statusbar] 45.231998ms
+2015-05-18 12:34:46.706 Zoe Water[90928:12311029] [CDVTimer][splashscreen] 11.156023ms
+2015-05-18 12:34:46.775 Zoe Water[90928:12311029] [CDVTimer][socialsharing] 68.988979ms
+2015-05-18 12:34:46.776 Zoe Water[90928:12311029] [CDVTimer][TotalPluginStartup] 136.372030ms
+2015-05-18 12:34:46.869 Zoe Water[90928:12311029] Resetting plugins due to page load.
+2015-05-18 12:34:47.059 Zoe Water[90928:12311029] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/4E87FD21-E831-48B0-A3EF-4249B0273CE2/Zoe%20Water.app/www/index.html
+2015-05-18 12:35:09.071 Zoe Water[90928:12311029] THREAD WARNING: ['Notification'] took '13.541992' ms. Plugin should use a background thread.
+2015-05-18 12:36:34.402 Zoe Water[91310:12312479] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/48BF0B6A-FA8A-4881-9882-A09F0A230F3F/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:36:34.528 Zoe Water[91310:12312479] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:36:34.528 Zoe Water[91310:12312479] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:36:34.532 Zoe Water[91310:12312479] Unlimited access to network resources
+2015-05-18 12:36:34.536 Zoe Water[91310:12312479] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:36:34.655 Zoe Water[91310:12312479] Init FacebookConnect Session
+2015-05-18 12:36:34.663 Zoe Water[91310:12312479] [CDVTimer][facebookconnectplugin] 8.243978ms
+2015-05-18 12:36:34.692 Zoe Water[91310:12312479] [CDVTimer][statusbar] 28.503001ms
+2015-05-18 12:36:34.700 Zoe Water[91310:12312479] [CDVTimer][splashscreen] 7.914007ms
+2015-05-18 12:36:34.763 Zoe Water[91310:12312479] [CDVTimer][socialsharing] 62.949955ms
+2015-05-18 12:36:34.763 Zoe Water[91310:12312479] [CDVTimer][TotalPluginStartup] 108.590007ms
+2015-05-18 12:36:34.834 Zoe Water[91310:12312479] Resetting plugins due to page load.
+2015-05-18 12:36:34.981 Zoe Water[91310:12312479] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/403583E6-6872-4DDC-B207-D0DBB3F57FDE/Zoe%20Water.app/www/index.html
+2015-05-18 12:36:35.662 Zoe Water[91310:12312479] THREAD WARNING: ['ParsePushNotificationPlugin'] took '513.262939' ms. Plugin should use a background thread.
+2015-05-18 12:37:38.832 Zoe Water[91651:12313633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/94F5B3E8-578C-412C-A0C6-D74FC23BD534/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:37:38.932 Zoe Water[91651:12313633] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:37:38.933 Zoe Water[91651:12313633] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:37:38.936 Zoe Water[91651:12313633] Unlimited access to network resources
+2015-05-18 12:37:38.939 Zoe Water[91651:12313633] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:37:39.048 Zoe Water[91651:12313633] Init FacebookConnect Session
+2015-05-18 12:37:39.055 Zoe Water[91651:12313633] [CDVTimer][facebookconnectplugin] 6.742001ms
+2015-05-18 12:37:39.076 Zoe Water[91651:12313633] [CDVTimer][statusbar] 20.448983ms
+2015-05-18 12:37:39.083 Zoe Water[91651:12313633] [CDVTimer][splashscreen] 7.237971ms
+2015-05-18 12:37:39.140 Zoe Water[91651:12313633] [CDVTimer][socialsharing] 56.427002ms
+2015-05-18 12:37:39.140 Zoe Water[91651:12313633] [CDVTimer][TotalPluginStartup] 91.735005ms
+2015-05-18 12:37:39.207 Zoe Water[91651:12313633] Resetting plugins due to page load.
+2015-05-18 12:37:39.326 Zoe Water[91651:12313633] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/DA5B8FC2-BBA7-46E4-9578-285D0FF91AD0/Zoe%20Water.app/www/index.html
+2015-05-18 12:38:54.523 Zoe Water[92001:12315152] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/F670FA48-844C-4C6F-BB02-BDD00F7BEE06/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:38:54.632 Zoe Water[92001:12315152] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:38:54.632 Zoe Water[92001:12315152] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:38:54.635 Zoe Water[92001:12315152] Unlimited access to network resources
+2015-05-18 12:38:54.639 Zoe Water[92001:12315152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:38:54.766 Zoe Water[92001:12315152] Init FacebookConnect Session
+2015-05-18 12:38:54.774 Zoe Water[92001:12315152] [CDVTimer][facebookconnectplugin] 8.112967ms
+2015-05-18 12:38:54.796 Zoe Water[92001:12315152] [CDVTimer][statusbar] 21.640003ms
+2015-05-18 12:38:54.802 Zoe Water[92001:12315152] [CDVTimer][splashscreen] 6.177008ms
+2015-05-18 12:38:54.864 Zoe Water[92001:12315152] [CDVTimer][socialsharing] 61.200976ms
+2015-05-18 12:38:54.864 Zoe Water[92001:12315152] [CDVTimer][TotalPluginStartup] 98.003983ms
+2015-05-18 12:38:54.938 Zoe Water[92001:12315152] Resetting plugins due to page load.
+2015-05-18 12:38:55.109 Zoe Water[92001:12315152] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/475D53C0-85CF-415A-AC0B-E4E999C1C818/Zoe%20Water.app/www/index.html
+2015-05-18 12:43:11.291 Zoe Water[92503:12317665] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/78F4CB63-D1B4-4882-96E0-0AFF5C69B9A1/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:43:11.351 Zoe Water[92503:12317665] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:43:11.352 Zoe Water[92503:12317665] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:43:11.354 Zoe Water[92503:12317665] Unlimited access to network resources
+2015-05-18 12:43:11.356 Zoe Water[92503:12317665] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:43:11.442 Zoe Water[92503:12317665] Init FacebookConnect Session
+2015-05-18 12:43:11.449 Zoe Water[92503:12317665] [CDVTimer][facebookconnectplugin] 6.724000ms
+2015-05-18 12:43:11.469 Zoe Water[92503:12317665] [CDVTimer][statusbar] 19.595981ms
+2015-05-18 12:43:11.474 Zoe Water[92503:12317665] [CDVTimer][splashscreen] 4.999995ms
+2015-05-18 12:43:11.518 Zoe Water[92503:12317665] [CDVTimer][socialsharing] 44.036984ms
+2015-05-18 12:43:11.518 Zoe Water[92503:12317665] [CDVTimer][TotalPluginStartup] 76.008976ms
+2015-05-18 12:43:11.570 Zoe Water[92503:12317665] Resetting plugins due to page load.
+2015-05-18 12:43:11.690 Zoe Water[92503:12317665] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/F743B998-63A8-4D55-B32E-E49F4702CF26/Zoe%20Water.app/www/index.html
+2015-05-18 12:44:45.039 Zoe Water[92866:12319108] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/D89B0074-11A9-499F-A661-7170631EAB67/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:44:45.093 Zoe Water[92866:12319108] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:44:45.093 Zoe Water[92866:12319108] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:44:45.096 Zoe Water[92866:12319108] Unlimited access to network resources
+2015-05-18 12:44:45.098 Zoe Water[92866:12319108] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:44:45.183 Zoe Water[92866:12319108] Init FacebookConnect Session
+2015-05-18 12:44:45.190 Zoe Water[92866:12319108] [CDVTimer][facebookconnectplugin] 6.271005ms
+2015-05-18 12:44:45.209 Zoe Water[92866:12319108] [CDVTimer][statusbar] 19.246995ms
+2015-05-18 12:44:45.215 Zoe Water[92866:12319108] [CDVTimer][splashscreen] 5.412996ms
+2015-05-18 12:44:45.258 Zoe Water[92866:12319108] [CDVTimer][socialsharing] 43.527007ms
+2015-05-18 12:44:45.258 Zoe Water[92866:12319108] [CDVTimer][TotalPluginStartup] 75.253010ms
+2015-05-18 12:44:45.317 Zoe Water[92866:12319108] Resetting plugins due to page load.
+2015-05-18 12:44:45.413 Zoe Water[92866:12319108] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/67307466-A35B-4AE9-A931-2B945B28501C/Zoe%20Water.app/www/index.html
+2015-05-18 12:45:24.945 Zoe Water[93192:12320273] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/83164258-CE01-4E0E-B7A5-F4FDBD6926CE/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:45:25.034 Zoe Water[93192:12320273] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:45:25.035 Zoe Water[93192:12320273] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:45:25.038 Zoe Water[93192:12320273] Unlimited access to network resources
+2015-05-18 12:45:25.042 Zoe Water[93192:12320273] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:45:25.161 Zoe Water[93192:12320273] Init FacebookConnect Session
+2015-05-18 12:45:25.168 Zoe Water[93192:12320273] [CDVTimer][facebookconnectplugin] 6.779969ms
+2015-05-18 12:45:25.187 Zoe Water[93192:12320273] [CDVTimer][statusbar] 19.007027ms
+2015-05-18 12:45:25.192 Zoe Water[93192:12320273] [CDVTimer][splashscreen] 4.974008ms
+2015-05-18 12:45:25.236 Zoe Water[93192:12320273] [CDVTimer][socialsharing] 43.996990ms
+2015-05-18 12:45:25.236 Zoe Water[93192:12320273] [CDVTimer][TotalPluginStartup] 75.492978ms
+2015-05-18 12:45:25.319 Zoe Water[93192:12320273] Resetting plugins due to page load.
+2015-05-18 12:45:25.513 Zoe Water[93192:12320273] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/B3730592-D0C6-4CED-BCC5-7D396CF5F2E1/Zoe%20Water.app/www/index.html
+2015-05-18 12:47:20.577 Zoe Water[93608:12323292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/51CAE68B-B831-488A-86C5-6507A15BDD45/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:47:20.747 Zoe Water[93608:12323292] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:47:20.748 Zoe Water[93608:12323292] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:47:20.751 Zoe Water[93608:12323292] Unlimited access to network resources
+2015-05-18 12:47:20.754 Zoe Water[93608:12323292] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:47:20.871 Zoe Water[93608:12323292] Init FacebookConnect Session
+2015-05-18 12:47:20.942 Zoe Water[93608:12323292] [CDVTimer][facebookconnectplugin] 71.034014ms
+2015-05-18 12:47:20.976 Zoe Water[93608:12323292] [CDVTimer][statusbar] 33.438027ms
+2015-05-18 12:47:20.984 Zoe Water[93608:12323292] [CDVTimer][splashscreen] 8.189976ms
+2015-05-18 12:47:21.043 Zoe Water[93608:12323292] [CDVTimer][socialsharing] 58.345020ms
+2015-05-18 12:47:21.043 Zoe Water[93608:12323292] [CDVTimer][TotalPluginStartup] 171.847999ms
+2015-05-18 12:47:21.118 Zoe Water[93608:12323292] Resetting plugins due to page load.
+2015-05-18 12:47:21.275 Zoe Water[93608:12323292] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/0188D399-513E-436D-A257-FD85066308DE/Zoe%20Water.app/www/index.html
+2015-05-18 12:50:42.337 Zoe Water[94071:12325838] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/C364BDEA-89A1-409E-82AD-A9DBA0048326/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:50:42.456 Zoe Water[94071:12325838] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:50:42.456 Zoe Water[94071:12325838] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:50:42.460 Zoe Water[94071:12325838] Unlimited access to network resources
+2015-05-18 12:50:42.465 Zoe Water[94071:12325838] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:50:42.579 Zoe Water[94071:12325838] Init FacebookConnect Session
+2015-05-18 12:50:42.587 Zoe Water[94071:12325838] [CDVTimer][facebookconnectplugin] 7.836998ms
+2015-05-18 12:50:42.617 Zoe Water[94071:12325838] [CDVTimer][statusbar] 29.446006ms
+2015-05-18 12:50:42.624 Zoe Water[94071:12325838] [CDVTimer][splashscreen] 7.386982ms
+2015-05-18 12:50:42.683 Zoe Water[94071:12325838] [CDVTimer][socialsharing] 58.845997ms
+2015-05-18 12:50:42.683 Zoe Water[94071:12325838] [CDVTimer][TotalPluginStartup] 104.364991ms
+2015-05-18 12:50:42.774 Zoe Water[94071:12325838] Resetting plugins due to page load.
+2015-05-18 12:50:42.967 Zoe Water[94071:12325838] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/DDE9D3D4-BA1F-49FF-A23A-67C3A0DBD663/Zoe%20Water.app/www/index.html
+2015-05-18 12:53:55.127 Zoe Water[94516:12328114] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/30E71688-4CDE-4913-96AC-1D04DB6038C3/Library/Cookies/Cookies.binarycookies
+2015-05-18 12:53:55.250 Zoe Water[94516:12328114] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 12:53:55.251 Zoe Water[94516:12328114] Multi-tasking -> Device: YES, App: YES
+2015-05-18 12:53:55.254 Zoe Water[94516:12328114] Unlimited access to network resources
+2015-05-18 12:53:55.258 Zoe Water[94516:12328114] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 12:53:55.385 Zoe Water[94516:12328114] Init FacebookConnect Session
+2015-05-18 12:53:55.393 Zoe Water[94516:12328114] [CDVTimer][facebookconnectplugin] 8.477986ms
+2015-05-18 12:53:55.418 Zoe Water[94516:12328114] [CDVTimer][statusbar] 24.038017ms
+2015-05-18 12:53:55.425 Zoe Water[94516:12328114] [CDVTimer][splashscreen] 7.320046ms
+2015-05-18 12:53:55.486 Zoe Water[94516:12328114] [CDVTimer][socialsharing] 60.527980ms
+2015-05-18 12:53:55.486 Zoe Water[94516:12328114] [CDVTimer][TotalPluginStartup] 101.235032ms
+2015-05-18 12:53:55.574 Zoe Water[94516:12328114] Resetting plugins due to page load.
+2015-05-18 12:53:55.742 Zoe Water[94516:12328114] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/6FB64DBE-FE56-4260-9CFA-6916DC211627/Zoe%20Water.app/www/index.html
+2015-05-18 13:02:12.571 Zoe Water[95237:12332922] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/B186EC49-F34C-4787-96DA-8C495073549E/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:02:12.687 Zoe Water[95237:12332922] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:02:12.688 Zoe Water[95237:12332922] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:02:12.691 Zoe Water[95237:12332922] Unlimited access to network resources
+2015-05-18 13:02:12.695 Zoe Water[95237:12332922] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:02:12.829 Zoe Water[95237:12332922] Init FacebookConnect Session
+2015-05-18 13:02:12.836 Zoe Water[95237:12332922] [CDVTimer][facebookconnectplugin] 7.269025ms
+2015-05-18 13:02:12.868 Zoe Water[95237:12332922] [CDVTimer][statusbar] 31.527996ms
+2015-05-18 13:02:12.876 Zoe Water[95237:12332922] [CDVTimer][splashscreen] 7.578015ms
+2015-05-18 13:02:12.922 Zoe Water[95237:12332922] [CDVTimer][socialsharing] 46.397030ms
+2015-05-18 13:02:12.923 Zoe Water[95237:12332922] [CDVTimer][TotalPluginStartup] 93.436003ms
+2015-05-18 13:02:13.008 Zoe Water[95237:12332922] Resetting plugins due to page load.
+2015-05-18 13:02:13.124 Zoe Water[95237:12332922] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/A6776191-E988-46E0-9720-947C8A1983E8/Zoe%20Water.app/www/index.html
+2015-05-18 13:04:08.189 Zoe Water[95631:12334769] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/5416CE49-79C8-4414-8DA4-4AA9A2193087/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:04:08.307 Zoe Water[95631:12334769] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:04:08.308 Zoe Water[95631:12334769] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:04:08.311 Zoe Water[95631:12334769] Unlimited access to network resources
+2015-05-18 13:04:08.314 Zoe Water[95631:12334769] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:04:08.437 Zoe Water[95631:12334769] Init FacebookConnect Session
+2015-05-18 13:04:08.445 Zoe Water[95631:12334769] [CDVTimer][facebookconnectplugin] 7.876992ms
+2015-05-18 13:04:08.472 Zoe Water[95631:12334769] [CDVTimer][statusbar] 27.203023ms
+2015-05-18 13:04:08.481 Zoe Water[95631:12334769] [CDVTimer][splashscreen] 8.578002ms
+2015-05-18 13:04:08.548 Zoe Water[95631:12334769] [CDVTimer][socialsharing] 66.484988ms
+2015-05-18 13:04:08.548 Zoe Water[95631:12334769] [CDVTimer][TotalPluginStartup] 111.096978ms
+2015-05-18 13:04:08.655 Zoe Water[95631:12334769] Resetting plugins due to page load.
+2015-05-18 13:04:08.850 Zoe Water[95631:12334769] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/106536FA-0D10-4E33-A525-49C1CE59A8BD/Zoe%20Water.app/www/index.html
+2015-05-18 13:05:31.504 Zoe Water[95986:12336124] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/A0E5FEA1-54F7-4F0C-8358-E8EB6679FF04/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:05:31.588 Zoe Water[95986:12336124] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:05:31.588 Zoe Water[95986:12336124] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:05:31.591 Zoe Water[95986:12336124] Unlimited access to network resources
+2015-05-18 13:05:31.593 Zoe Water[95986:12336124] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:05:31.686 Zoe Water[95986:12336124] Init FacebookConnect Session
+2015-05-18 13:05:31.693 Zoe Water[95986:12336124] [CDVTimer][facebookconnectplugin] 6.653011ms
+2015-05-18 13:05:31.712 Zoe Water[95986:12336124] [CDVTimer][statusbar] 19.596040ms
+2015-05-18 13:05:31.719 Zoe Water[95986:12336124] [CDVTimer][splashscreen] 5.990028ms
+2015-05-18 13:05:31.769 Zoe Water[95986:12336124] [CDVTimer][socialsharing] 50.417006ms
+2015-05-18 13:05:31.769 Zoe Water[95986:12336124] [CDVTimer][TotalPluginStartup] 83.486021ms
+2015-05-18 13:05:31.862 Zoe Water[95986:12336124] Resetting plugins due to page load.
+2015-05-18 13:05:32.074 Zoe Water[95986:12336124] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/FFAA92EB-F9B9-48BB-B0FA-EFFC8D2E5B3F/Zoe%20Water.app/www/index.html
+2015-05-18 13:08:25.960 Zoe Water[96417:12337874] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/0712ABB9-B939-43F4-9FB0-1DB9ED618D47/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:08:26.049 Zoe Water[96417:12337874] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:08:26.050 Zoe Water[96417:12337874] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:08:26.053 Zoe Water[96417:12337874] Unlimited access to network resources
+2015-05-18 13:08:26.057 Zoe Water[96417:12337874] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:08:26.159 Zoe Water[96417:12337874] Init FacebookConnect Session
+2015-05-18 13:08:26.167 Zoe Water[96417:12337874] [CDVTimer][facebookconnectplugin] 8.347988ms
+2015-05-18 13:08:26.193 Zoe Water[96417:12337874] [CDVTimer][statusbar] 25.660038ms
+2015-05-18 13:08:26.200 Zoe Water[96417:12337874] [CDVTimer][splashscreen] 6.668985ms
+2015-05-18 13:08:26.265 Zoe Water[96417:12337874] [CDVTimer][socialsharing] 65.343976ms
+2015-05-18 13:08:26.266 Zoe Water[96417:12337874] [CDVTimer][TotalPluginStartup] 106.902957ms
+2015-05-18 13:08:26.385 Zoe Water[96417:12337874] Resetting plugins due to page load.
+2015-05-18 13:08:26.594 Zoe Water[96417:12337874] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/B899BFD3-6BC6-467A-A476-29F718996AC8/Zoe%20Water.app/www/index.html
+2015-05-18 13:08:26.818 Zoe Water[96417:12337874] THREAD WARNING: ['ParsePushNotificationPlugin'] took '14.647217' ms. Plugin should use a background thread.
+2015-05-18 13:08:27.099 Zoe Water[96417:12337874] THREAD WARNING: ['ActivityIndicator'] took '15.493896' ms. Plugin should use a background thread.
+2015-05-18 13:09:45.688 Zoe Water[96777:12339315] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/AE1E83C4-33EE-4E8F-98EC-CC816C15218D/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:09:45.770 Zoe Water[96777:12339315] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:09:45.771 Zoe Water[96777:12339315] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:09:45.775 Zoe Water[96777:12339315] Unlimited access to network resources
+2015-05-18 13:09:45.782 Zoe Water[96777:12339315] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:09:45.883 Zoe Water[96777:12339315] Init FacebookConnect Session
+2015-05-18 13:09:45.889 Zoe Water[96777:12339315] [CDVTimer][facebookconnectplugin] 5.189955ms
+2015-05-18 13:09:45.905 Zoe Water[96777:12339315] [CDVTimer][statusbar] 16.227007ms
+2015-05-18 13:09:45.910 Zoe Water[96777:12339315] [CDVTimer][splashscreen] 4.679978ms
+2015-05-18 13:09:45.953 Zoe Water[96777:12339315] [CDVTimer][socialsharing] 43.394983ms
+2015-05-18 13:09:45.954 Zoe Water[96777:12339315] [CDVTimer][TotalPluginStartup] 70.134997ms
+2015-05-18 13:09:46.008 Zoe Water[96777:12339315] Resetting plugins due to page load.
+2015-05-18 13:09:46.135 Zoe Water[96777:12339315] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/2CCE30C7-5EAD-4079-8D04-20AEC622D302/Zoe%20Water.app/www/index.html
+2015-05-18 13:10:11.016 Zoe Water[97087:12340076] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/3B0159B9-3796-4F88-AEBC-DD78EA0BB576/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:10:11.106 Zoe Water[97087:12340076] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:10:11.107 Zoe Water[97087:12340076] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:10:11.111 Zoe Water[97087:12340076] Unlimited access to network resources
+2015-05-18 13:10:11.116 Zoe Water[97087:12340076] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:10:11.213 Zoe Water[97087:12340076] Init FacebookConnect Session
+2015-05-18 13:10:11.218 Zoe Water[97087:12340076] [CDVTimer][facebookconnectplugin] 5.219996ms
+2015-05-18 13:10:11.233 Zoe Water[97087:12340076] [CDVTimer][statusbar] 15.356004ms
+2015-05-18 13:10:11.238 Zoe Water[97087:12340076] [CDVTimer][splashscreen] 4.245996ms
+2015-05-18 13:10:11.283 Zoe Water[97087:12340076] [CDVTimer][socialsharing] 45.073032ms
+2015-05-18 13:10:11.283 Zoe Water[97087:12340076] [CDVTimer][TotalPluginStartup] 70.564985ms
+2015-05-18 13:10:11.336 Zoe Water[97087:12340076] Resetting plugins due to page load.
+2015-05-18 13:10:11.444 Zoe Water[97087:12340076] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/FD9BEB49-3BF2-438D-A9F0-9E39BC952405/Zoe%20Water.app/www/index.html
+2015-05-18 13:11:19.948 Zoe Water[97426:12341277] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/6C60FF8C-266A-4676-946A-F4D807A941E3/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:11:20.014 Zoe Water[97426:12341277] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:11:20.014 Zoe Water[97426:12341277] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:11:20.017 Zoe Water[97426:12341277] Unlimited access to network resources
+2015-05-18 13:11:20.020 Zoe Water[97426:12341277] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:11:20.112 Zoe Water[97426:12341277] Init FacebookConnect Session
+2015-05-18 13:11:20.118 Zoe Water[97426:12341277] [CDVTimer][facebookconnectplugin] 6.061971ms
+2015-05-18 13:11:20.136 Zoe Water[97426:12341277] [CDVTimer][statusbar] 17.087042ms
+2015-05-18 13:11:20.141 Zoe Water[97426:12341277] [CDVTimer][splashscreen] 5.135000ms
+2015-05-18 13:11:20.190 Zoe Water[97426:12341277] [CDVTimer][socialsharing] 49.095988ms
+2015-05-18 13:11:20.190 Zoe Water[97426:12341277] [CDVTimer][TotalPluginStartup] 78.099012ms
+2015-05-18 13:11:20.246 Zoe Water[97426:12341277] Resetting plugins due to page load.
+2015-05-18 13:11:20.363 Zoe Water[97426:12341277] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/D9E2F456-2454-41A6-8A49-2ECA50B10666/Zoe%20Water.app/www/index.html
+2015-05-18 13:13:33.214 Zoe Water[97826:12342980] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/4BC90592-BEA2-454D-8E9D-5B5AF59C6E06/Library/Cookies/Cookies.binarycookies
+2015-05-18 13:13:33.299 Zoe Water[97826:12342980] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 13:13:33.300 Zoe Water[97826:12342980] Multi-tasking -> Device: YES, App: YES
+2015-05-18 13:13:33.303 Zoe Water[97826:12342980] Unlimited access to network resources
+2015-05-18 13:13:33.306 Zoe Water[97826:12342980] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 13:13:33.411 Zoe Water[97826:12342980] Init FacebookConnect Session
+2015-05-18 13:13:33.419 Zoe Water[97826:12342980] [CDVTimer][facebookconnectplugin] 7.176995ms
+2015-05-18 13:13:33.440 Zoe Water[97826:12342980] [CDVTimer][statusbar] 21.679044ms
+2015-05-18 13:13:33.446 Zoe Water[97826:12342980] [CDVTimer][splashscreen] 5.829990ms
+2015-05-18 13:13:33.505 Zoe Water[97826:12342980] [CDVTimer][socialsharing] 57.924986ms
+2015-05-18 13:13:33.505 Zoe Water[97826:12342980] [CDVTimer][TotalPluginStartup] 93.421996ms
+2015-05-18 13:13:33.573 Zoe Water[97826:12342980] Resetting plugins due to page load.
+2015-05-18 13:13:33.713 Zoe Water[97826:12342980] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/D09032D6-1401-4954-8FB0-117365B040B6/Zoe%20Water.app/www/index.html
+2015-05-18 13:13:34.396 Zoe Water[97826:12342980] THREAD WARNING: ['ParsePushNotificationPlugin'] took '516.520264' ms. Plugin should use a background thread.
+2015-05-18 13:14:06.239 Zoe Water[97826:12342980] THREAD WARNING: ['Notification'] took '51.302002' ms. Plugin should use a background thread.
+2015-05-18 13:14:08.779 Zoe Water[97826:12342980] THREAD WARNING: ['Notification'] took '13.763916' ms. Plugin should use a background thread.
+2015-05-18 13:15:44.700 Zoe Water[97826:12342980] THREAD WARNING: ['SocialSharing'] took '175.907227' ms. Plugin should use a background thread.
+2015-05-18 13:15:57.870 Zoe Water[97826:12344049] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 13:16:05.771 Zoe Water[97826:12344184] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 13:16:34.526 Zoe Water[97826:12344490] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 15:05:45.421 Zoe Water[97826:12388159] Communications error: <OS_xpc_error: <error: 0x51a55f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x51a583c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-18 15:24:22.922 Zoe Water[97826:12342980] THREAD WARNING: ['SocialSharing'] took '16.498047' ms. Plugin should use a background thread.
+2015-05-18 15:24:34.836 Zoe Water[97826:12402622] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 15:29:35.453 Zoe Water[5237:12407437] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/864A3B8F-C22C-4265-9A8F-29E2F9F2CB21/Library/Cookies/Cookies.binarycookies
+2015-05-18 15:29:35.780 Zoe Water[5237:12407437] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 15:29:35.780 Zoe Water[5237:12407437] Multi-tasking -> Device: YES, App: YES
+2015-05-18 15:29:35.797 Zoe Water[5237:12407437] Unlimited access to network resources
+2015-05-18 15:29:35.808 Zoe Water[5237:12407437] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 15:29:36.170 Zoe Water[5237:12407437] Init FacebookConnect Session
+2015-05-18 15:29:36.240 Zoe Water[5237:12407437] [CDVTimer][facebookconnectplugin] 70.560992ms
+2015-05-18 15:29:36.364 Zoe Water[5237:12407437] [CDVTimer][statusbar] 123.504996ms
+2015-05-18 15:29:36.412 Zoe Water[5237:12407437] [CDVTimer][splashscreen] 47.291040ms
+2015-05-18 15:29:36.478 Zoe Water[5237:12407437] [CDVTimer][socialsharing] 65.994024ms
+2015-05-18 15:29:36.478 Zoe Water[5237:12407437] [CDVTimer][TotalPluginStartup] 308.000982ms
+2015-05-18 15:29:36.533 Zoe Water[5237:12407437] Resetting plugins due to page load.
+2015-05-18 15:29:36.686 Zoe Water[5237:12407437] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/D75C6F54-B68D-46B8-87BA-C668ADD7D6A7/Zoe%20Water.app/www/index.html
+2015-05-18 15:29:36.840 Zoe Water[5237:12407437] THREAD WARNING: ['ParsePushNotificationPlugin'] took '15.918945' ms. Plugin should use a background thread.
+2015-05-18 15:29:37.233 Zoe Water[5237:12407437] THREAD WARNING: ['ActivityIndicator'] took '20.155029' ms. Plugin should use a background thread.
+2015-05-18 15:29:43.051 Zoe Water[5237:12407437] THREAD WARNING: ['SocialSharing'] took '115.914307' ms. Plugin should use a background thread.
+2015-05-18 15:29:57.658 Zoe Water[5237:12407571] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 15:31:47.596 Zoe Water[5652:12409563] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/876320AB-2ABE-4675-B3C0-F8B429AC5C09/Library/Cookies/Cookies.binarycookies
+2015-05-18 15:31:47.665 Zoe Water[5652:12409563] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 15:31:47.666 Zoe Water[5652:12409563] Multi-tasking -> Device: YES, App: YES
+2015-05-18 15:31:47.668 Zoe Water[5652:12409563] Unlimited access to network resources
+2015-05-18 15:31:47.670 Zoe Water[5652:12409563] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 15:31:47.739 Zoe Water[5652:12409563] Init FacebookConnect Session
+2015-05-18 15:31:47.744 Zoe Water[5652:12409563] [CDVTimer][facebookconnectplugin] 4.911959ms
+2015-05-18 15:31:47.765 Zoe Water[5652:12409563] [CDVTimer][statusbar] 21.035969ms
+2015-05-18 15:31:47.772 Zoe Water[5652:12409563] [CDVTimer][splashscreen] 6.793022ms
+2015-05-18 15:31:47.806 Zoe Water[5652:12409563] [CDVTimer][socialsharing] 34.286022ms
+2015-05-18 15:31:47.806 Zoe Water[5652:12409563] [CDVTimer][TotalPluginStartup] 67.584991ms
+2015-05-18 15:31:47.845 Zoe Water[5652:12409563] Resetting plugins due to page load.
+2015-05-18 15:31:47.924 Zoe Water[5652:12409563] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/354898A3-274C-4661-BEF5-30213246D5B3/Zoe%20Water.app/www/index.html
+2015-05-18 15:31:51.640 Zoe Water[5652:12409563] THREAD WARNING: ['SocialSharing'] took '42.157959' ms. Plugin should use a background thread.
+2015-05-18 15:32:05.596 Zoe Water[5652:12409791] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 15:37:04.540 Zoe Water[6195:12413356] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/7A0913EE-C00B-49C9-B79A-20060A34396C/Library/Cookies/Cookies.binarycookies
+2015-05-18 15:37:04.618 Zoe Water[6195:12413356] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 15:37:04.618 Zoe Water[6195:12413356] Multi-tasking -> Device: YES, App: YES
+2015-05-18 15:37:04.620 Zoe Water[6195:12413356] Unlimited access to network resources
+2015-05-18 15:37:04.623 Zoe Water[6195:12413356] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 15:37:04.694 Zoe Water[6195:12413356] Init FacebookConnect Session
+2015-05-18 15:37:04.700 Zoe Water[6195:12413356] [CDVTimer][facebookconnectplugin] 6.273985ms
+2015-05-18 15:37:04.724 Zoe Water[6195:12413356] [CDVTimer][statusbar] 23.819983ms
+2015-05-18 15:37:04.731 Zoe Water[6195:12413356] [CDVTimer][splashscreen] 6.174982ms
+2015-05-18 15:37:04.769 Zoe Water[6195:12413356] [CDVTimer][socialsharing] 38.563967ms
+2015-05-18 15:37:04.770 Zoe Water[6195:12413356] [CDVTimer][TotalPluginStartup] 75.535953ms
+2015-05-18 15:37:04.809 Zoe Water[6195:12413356] Resetting plugins due to page load.
+2015-05-18 15:37:04.877 Zoe Water[6195:12413356] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/4C638CBC-70A3-4D9E-AE5B-6DB539553582/Zoe%20Water.app/www/index.html
+2015-05-18 15:37:24.749 Zoe Water[6195:12413356] THREAD WARNING: ['SocialSharing'] took '590.093018' ms. Plugin should use a background thread.
+2015-05-18 15:37:51.051 Zoe Water[6195:12413955] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 15:38:32.112 Zoe Water[6195:12413356] THREAD WARNING: ['SocialSharing'] took '530.133057' ms. Plugin should use a background thread.
+2015-05-18 15:38:42.915 Zoe Water[6195:12414451] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 15:39:15.416 Zoe Water[6195:12414889] Communications error: <OS_xpc_error: <error: 0x51b95f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x51b983c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-18 18:08:51.904 Zoe Water[13980:12459234] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/572F6931-1086-4B95-8D3E-2139A02F7BEB/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:08:52.297 Zoe Water[13980:12459234] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:08:52.297 Zoe Water[13980:12459234] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:08:52.314 Zoe Water[13980:12459234] Unlimited access to network resources
+2015-05-18 18:08:52.322 Zoe Water[13980:12459234] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:08:52.641 Zoe Water[13980:12459234] Init FacebookConnect Session
+2015-05-18 18:08:52.690 Zoe Water[13980:12459234] [CDVTimer][facebookconnectplugin] 48.584998ms
+2015-05-18 18:08:52.798 Zoe Water[13980:12459234] [CDVTimer][statusbar] 107.644975ms
+2015-05-18 18:08:52.849 Zoe Water[13980:12459234] [CDVTimer][splashscreen] 51.059961ms
+2015-05-18 18:08:52.909 Zoe Water[13980:12459234] [CDVTimer][socialsharing] 60.119987ms
+2015-05-18 18:08:52.909 Zoe Water[13980:12459234] [CDVTimer][TotalPluginStartup] 268.180013ms
+2015-05-18 18:08:52.969 Zoe Water[13980:12459234] Resetting plugins due to page load.
+2015-05-18 18:08:53.110 Zoe Water[13980:12459234] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/6525FFF8-D5DC-4692-8DF8-48E8AF22AF9A/Zoe%20Water.app/www/index.html
+2015-05-18 18:08:53.298 Zoe Water[13980:12459234] THREAD WARNING: ['ParsePushNotificationPlugin'] took '21.237061' ms. Plugin should use a background thread.
+2015-05-18 18:08:53.634 Zoe Water[13980:12459234] THREAD WARNING: ['ActivityIndicator'] took '17.881836' ms. Plugin should use a background thread.
+2015-05-18 18:08:57.310 Zoe Water[13980:12459234] THREAD WARNING: ['SocialSharing'] took '120.662842' ms. Plugin should use a background thread.
+2015-05-18 18:10:32.390 Zoe Water[13980:12461280] Communications error: <OS_xpc_error: <error: 0x514b5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x514b83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-18 18:10:32.429 Zoe Water[13980:12461280] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 18:13:42.242 Zoe Water[13980:12459234] THREAD WARNING: ['SocialSharing'] took '12.775146' ms. Plugin should use a background thread.
+2015-05-18 18:13:55.931 Zoe Water[13980:12464121] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 18:15:04.623 Zoe Water[13980:12459234] THREAD WARNING: ['SocialSharing'] took '794.964844' ms. Plugin should use a background thread.
+2015-05-18 18:15:16.811 Zoe Water[13980:12465185] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 18:24:32.144 Zoe Water[13980:12459234] THREAD WARNING: ['SocialSharing'] took '16.990967' ms. Plugin should use a background thread.
+2015-05-18 18:24:41.190 Zoe Water[13980:12470182] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 18:26:53.605 Zoe Water[15295:12471927] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/E2A5845B-F440-404B-8C9F-2779FEA40501/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:26:53.803 Zoe Water[15295:12471927] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:26:53.803 Zoe Water[15295:12471927] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:26:53.817 Zoe Water[15295:12471927] Unlimited access to network resources
+2015-05-18 18:26:53.827 Zoe Water[15295:12471927] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:26:54.116 Zoe Water[15295:12471927] Init FacebookConnect Session
+2015-05-18 18:26:54.152 Zoe Water[15295:12471927] [CDVTimer][facebookconnectplugin] 36.289036ms
+2015-05-18 18:26:54.232 Zoe Water[15295:12471927] [CDVTimer][statusbar] 79.674006ms
+2015-05-18 18:26:54.278 Zoe Water[15295:12471927] [CDVTimer][splashscreen] 46.180010ms
+2015-05-18 18:26:54.348 Zoe Water[15295:12471927] [CDVTimer][socialsharing] 68.934977ms
+2015-05-18 18:26:54.348 Zoe Water[15295:12471927] [CDVTimer][TotalPluginStartup] 231.716990ms
+2015-05-18 18:26:54.472 Zoe Water[15295:12471927] Resetting plugins due to page load.
+2015-05-18 18:26:54.679 Zoe Water[15295:12471927] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/134F2984-6767-4606-9D93-370D7DFC5B95/Zoe%20Water.app/www/index.html
+2015-05-18 18:26:54.865 Zoe Water[15295:12471927] THREAD WARNING: ['ParsePushNotificationPlugin'] took '17.463867' ms. Plugin should use a background thread.
+2015-05-18 18:26:55.195 Zoe Water[15295:12471927] THREAD WARNING: ['ActivityIndicator'] took '12.026855' ms. Plugin should use a background thread.
+2015-05-18 18:26:58.397 Zoe Water[15295:12471927] THREAD WARNING: ['SocialSharing'] took '165.864990' ms. Plugin should use a background thread.
+2015-05-18 18:27:16.940 Zoe Water[15295:12472110] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 18:28:03.409 Zoe Water[15295:12472734] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 18:32:23.855 Zoe Water[15861:12475754] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/29FA774F-D5C9-4E28-BD66-F2A5D183A2F1/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:32:24.156 Zoe Water[15861:12475754] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:32:24.156 Zoe Water[15861:12475754] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:32:24.180 Zoe Water[15861:12475754] Unlimited access to network resources
+2015-05-18 18:32:24.193 Zoe Water[15861:12475754] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:32:24.798 Zoe Water[15861:12475754] Init FacebookConnect Session
+2015-05-18 18:32:24.874 Zoe Water[15861:12475754] [CDVTimer][facebookconnectplugin] 75.747967ms
+2015-05-18 18:32:25.049 Zoe Water[15861:12475754] [CDVTimer][statusbar] 175.351024ms
+2015-05-18 18:32:25.118 Zoe Water[15861:12475754] [CDVTimer][splashscreen] 68.193972ms
+2015-05-18 18:32:25.238 Zoe Water[15861:12475754] [CDVTimer][socialsharing] 119.818032ms
+2015-05-18 18:32:25.238 Zoe Water[15861:12475754] [CDVTimer][TotalPluginStartup] 440.087020ms
+2015-05-18 18:32:25.433 Zoe Water[15861:12475754] Resetting plugins due to page load.
+2015-05-18 18:32:25.814 Zoe Water[15861:12475754] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/12D21686-0755-44FC-BE0A-76B34CBB240E/Zoe%20Water.app/www/index.html
+2015-05-18 18:32:26.149 Zoe Water[15861:12475754] THREAD WARNING: ['ParsePushNotificationPlugin'] took '26.487061' ms. Plugin should use a background thread.
+2015-05-18 18:32:26.769 Zoe Water[15861:12475754] THREAD WARNING: ['ActivityIndicator'] took '20.479004' ms. Plugin should use a background thread.
+2015-05-18 18:32:29.956 Zoe Water[15861:12475754] THREAD WARNING: ['SocialSharing'] took '411.952881' ms. Plugin should use a background thread.
+2015-05-18 18:32:40.269 Zoe Water[15861:12476020] plugin com.apple.share.Facebook.post invalidated
+2015-05-18 19:02:58.677 Zoe Water[17686:12489158] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Data/Application/4A5D4B23-6A8B-4A5A-9AA7-76D07BEDA51A/Library/Cookies/Cookies.binarycookies
+2015-05-18 19:02:58.950 Zoe Water[17686:12489158] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 19:02:58.951 Zoe Water[17686:12489158] Multi-tasking -> Device: YES, App: YES
+2015-05-18 19:02:58.966 Zoe Water[17686:12489158] Unlimited access to network resources
+2015-05-18 19:02:58.976 Zoe Water[17686:12489158] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 19:02:59.286 Zoe Water[17686:12489158] Init FacebookConnect Session
+2015-05-18 19:02:59.336 Zoe Water[17686:12489158] [CDVTimer][facebookconnectplugin] 50.303996ms
+2015-05-18 19:02:59.422 Zoe Water[17686:12489158] [CDVTimer][statusbar] 86.219013ms
+2015-05-18 19:02:59.456 Zoe Water[17686:12489158] [CDVTimer][splashscreen] 34.057021ms
+2015-05-18 19:02:59.513 Zoe Water[17686:12489158] [CDVTimer][socialsharing] 56.711018ms
+2015-05-18 19:02:59.513 Zoe Water[17686:12489158] [CDVTimer][TotalPluginStartup] 227.869987ms
+2015-05-18 19:02:59.596 Zoe Water[17686:12489158] Resetting plugins due to page load.
+2015-05-18 19:02:59.797 Zoe Water[17686:12489158] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/386E6377-14C6-471C-B384-E2E0EBA19AA6/Zoe%20Water.app/www/index.html
+2015-05-18 19:03:00.010 Zoe Water[17686:12489158] THREAD WARNING: ['ParsePushNotificationPlugin'] took '16.656982' ms. Plugin should use a background thread.
+2015-05-18 19:03:00.338 Zoe Water[17686:12489158] THREAD WARNING: ['ActivityIndicator'] took '13.812012' ms. Plugin should use a background thread.
+2015-05-18 19:03:05.043 Zoe Water[17686:12489158] THREAD WARNING: ['FacebookConnectPlugin'] took '81.563965' ms. Plugin should use a background thread.
+2015-05-18 19:03:07.077 Zoe Water[17686:12489158] THREAD WARNING: ['SocialSharing'] took '2023.011963' ms. Plugin should use a background thread.
+2015-05-18 19:03:30.246 Zoe Water[17686:12489318] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 19:03:45.350 Zoe Water[17686:12489158] THREAD WARNING: ['FacebookConnectPlugin'] took '91.564697' ms. Plugin should use a background thread.
+2015-05-18 19:04:28.488 Zoe Water[17686:12490259] plugin com.apple.share.Twitter.post invalidated
+2015-05-18 19:06:51.780 Zoe Water[18187:12492479] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 19:06:51.782 Zoe Water[18187:12492479] Multi-tasking -> Device: YES, App: YES
+2015-05-18 19:06:51.804 Zoe Water[18187:12492479] Unlimited access to network resources
+2015-05-18 19:06:51.818 Zoe Water[18187:12492479] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 19:06:52.190 Zoe Water[18187:12492479] Init FacebookConnect Session
+2015-05-18 19:06:52.245 Zoe Water[18187:12492479] [CDVTimer][facebookconnectplugin] 55.786014ms
+2015-05-18 19:06:52.354 Zoe Water[18187:12492479] [CDVTimer][statusbar] 108.457029ms
+2015-05-18 19:06:52.395 Zoe Water[18187:12492479] [CDVTimer][splashscreen] 40.772974ms
+2015-05-18 19:06:52.460 Zoe Water[18187:12492479] [CDVTimer][socialsharing] 65.296054ms
+2015-05-18 19:06:52.461 Zoe Water[18187:12492479] [CDVTimer][TotalPluginStartup] 270.990014ms
+2015-05-18 19:06:52.537 Zoe Water[18187:12492479] Resetting plugins due to page load.
+2015-05-18 19:06:52.727 Zoe Water[18187:12492479] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/823C7A3C-7538-4EB4-84F6-B40F85BD5060/Zoe%20Water.app/www/index.html
+2015-05-18 19:06:52.947 Zoe Water[18187:12492479] THREAD WARNING: ['ParsePushNotificationPlugin'] took '15.616211' ms. Plugin should use a background thread.
+2015-05-18 19:06:53.282 Zoe Water[18187:12492479] THREAD WARNING: ['ActivityIndicator'] took '14.532959' ms. Plugin should use a background thread.
+2015-05-18 19:06:56.257 Zoe Water[18187:12492479] THREAD WARNING: ['FacebookConnectPlugin'] took '71.723877' ms. Plugin should use a background thread.
+2015-05-18 19:06:56.353 Zoe Water[18187:12492479] THREAD WARNING: ['SocialSharing'] took '95.037842' ms. Plugin should use a background thread.
+2015-05-18 20:08:07.790 Zoe Water[18187:12513305] Communications error: <OS_xpc_error: <error: 0x513b5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x513b83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-19 00:00:03.714 Zoe Water[18187:12492479] THREAD WARNING: ['Notification'] took '635.603760' ms. Plugin should use a background thread.
+2015-05-19 10:35:31.231 Zoe Water[18187:12654687] plugin com.apple.share.Twitter.post invalidated
+2015-05-19 10:51:21.992 Zoe Water[44991:12668661] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 10:51:21.996 Zoe Water[44991:12668661] Multi-tasking -> Device: YES, App: YES
+2015-05-19 10:51:22.011 Zoe Water[44991:12668661] Unlimited access to network resources
+2015-05-19 10:51:22.022 Zoe Water[44991:12668661] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 10:51:22.412 Zoe Water[44991:12668661] Init FacebookConnect Session
+2015-05-19 10:51:22.456 Zoe Water[44991:12668661] [CDVTimer][facebookconnectplugin] 44.135988ms
+2015-05-19 10:51:22.610 Zoe Water[44991:12668661] [CDVTimer][statusbar] 153.761029ms
+2015-05-19 10:51:22.652 Zoe Water[44991:12668661] [CDVTimer][splashscreen] 41.768014ms
+2015-05-19 10:51:22.734 Zoe Water[44991:12668661] [CDVTimer][socialsharing] 81.817985ms
+2015-05-19 10:51:22.734 Zoe Water[44991:12668661] [CDVTimer][TotalPluginStartup] 322.088957ms
+2015-05-19 10:51:22.835 Zoe Water[44991:12668661] Resetting plugins due to page load.
+2015-05-19 10:51:23.005 Zoe Water[44991:12668661] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/F10BC0F3-46BE-47A7-80DD-3234F0214062/Zoe%20Water.app/www/index.html
+2015-05-19 10:51:23.223 Zoe Water[44991:12668661] THREAD WARNING: ['ParsePushNotificationPlugin'] took '30.983154' ms. Plugin should use a background thread.
+2015-05-19 10:51:23.677 Zoe Water[44991:12668661] THREAD WARNING: ['ActivityIndicator'] took '18.749023' ms. Plugin should use a background thread.
+2015-05-19 10:51:27.541 Zoe Water[44991:12668661] THREAD WARNING: ['SocialSharing'] took '385.470947' ms. Plugin should use a background thread.
+2015-05-19 10:51:37.740 Zoe Water[44991:12668800] plugin com.apple.share.Facebook.post invalidated
+2015-05-19 10:51:42.738 Zoe Water[44991:12668661] THREAD WARNING: ['SocialSharing'] took '608.508789' ms. Plugin should use a background thread.
+2015-05-19 10:51:53.106 Zoe Water[44991:12668836] plugin com.apple.share.Facebook.post invalidated
+2015-05-19 10:51:54.739 Zoe Water[44991:12668802] Communications error: <OS_xpc_error: <error: 0x51a85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x51a883c> { length = 22, contents = "Connection interrupted" }
+}>

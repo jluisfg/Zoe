@@ -1,0 +1,44 @@
+#menu {
+	position: fixed;
+	width: 100%;
+	background: rgb(50,66,85);
+	z-index: $z-index-bar;
+	box-shadow: 0 3px 2px $dark;
+	top: -100%;
+	margin-top: $padding-large-vertical*6 + 4;
+
+	ul {
+		li {
+			border-bottom: 1px solid rgba(255,255,255,0.03);
+
+			&:last-child {
+				border-bottom: 0;
+			}
+
+			button {
+				display: block;
+				width: 100%;
+				margin: 0 auto;
+				font-weight: bold;
+			}
+		}
+	}
+
+	#menuOverlay {
+		z-index: 0;
+		background-color: transparent;
+		display: none;
+	}
+}
+
+.bar.bar-header.bar-dark {
+	background-color: #33465d;
+
+	.button img {
+		height: 32px;
+	}
+
+	.title img {
+		height: 100%;
+	}
+}

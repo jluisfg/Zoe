@@ -1,0 +1,62 @@
+#pos-page {
+    .scroll-content {
+        top: $padding-large-vertical*2;
+    }
+
+	#map{
+		position: absolute;
+		top: 0;
+		bottom:0;
+		width:100%;
+		height:100%;
+	}
+}
+
+#pos-infobox {
+
+    button.close {
+        background-color: transparentize($stable, 0.6);
+        background-image: url(../images/close@2x.png);
+        background-repear: no-repeat;
+        background-size: cover;
+        border-radius: 0px;
+        height: 1em;
+        width: 1em;
+        position: absolute;
+        right: 1em;
+        top: -47px;
+    }
+
+    background-image: linear-gradient(0deg, $stable, transparentize($stable, 0.6));
+    display: none;
+    color:#fff;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    min-height: 50px;
+    bottom:0;
+    text-shadow: $stable 1px 0px 1px;
+    
+    * {
+        -webkit-user-select: all;
+    }
+
+    a {
+        color: white;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    dl {
+        dt, dd{
+            display: inline-block;
+        }
+
+        dt {
+            width: 35%;
+        }
+        dd {
+            width: 65%;
+        }
+    }
+}

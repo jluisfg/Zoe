@@ -1,0 +1,14 @@
+{
+    "version": "1.0.4",
+    "name": "com.ludei.ios.webview.plus",
+    "cordova_name": "Webview+",
+    "platforms": [
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": "<=4.0.0"
+        }
+    ]
+}

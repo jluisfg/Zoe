@@ -1,0 +1,25 @@
+include ./offline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/back@2x.png')
+	h1.title
+
+.scroll-content.has-header
+	.page-content
+		form.row
+			.col
+				.padding
+					.list
+						label.item.item-input
+							input#username(type='text', placeholder="Usuario", autocomplete="off", autocapitalize="off")
+							
+					.list
+						label.item.item-input
+							input#password(type='password', placeholder="Contraseña")
+
+					.text-center
+						button(type='submit').button.button-outline.button-light Siguiente
+					br
+					.text-center
+						button#forgot.button.button-clear(type='button', data-view='Auth/forgot', child) ¿Olvidaste tu usuario o contraseña?

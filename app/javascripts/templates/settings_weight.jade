@@ -1,0 +1,53 @@
+include ./button_submit_outline.jade
+
+.bar.bar-header.bar-dark
+	button.button.icon.button-clear#leftButton
+		img(src='images/back@2x.png')
+	h1.title
+
+.scroll-content.has-header
+	.page-content
+		br
+		.list.clean#settings-weight-items
+			label.item.item-radio.item-dark
+				input#settingsConsumptionByWeightToggle(type="radio", name="consumptionType", value="weight")
+				.item-content Por Peso
+				i.radio-icon.ion-checkmark
+
+			label.item.item-radio.item-dark
+				input#settingsCustomConsumptionToggle(type="radio", name="consumptionType", value="custom")
+				.item-content Por Litros
+				i.radio-icon.ion-checkmark
+
+		form
+			.hide#consumptionByCustom
+				p.padding.text-center
+					| Introduce una cantidad en litros,
+					br
+					| esa cantidad sera tu consumo optimo diario.
+
+				.list
+					label.item.item-input
+						.input-label Litros
+						if(data.liters)
+							input#lts.text-center(type='number', placeholder="00.00", autocomplete="off", autocapitalize="off", value="#{data.liters}")
+						else
+							input#lts.text-center(type='number', placeholder="00.00", autocomplete="off", autocapitalize="off")
+				br
+
+			.hide#consumptionByWeight
+				p.padding.text-center
+					| Para generar tu consumo ideal,
+					br
+					| necesitamos conocer tu peso en kilos.
+
+				.list
+					label.item.item-input
+						.input-label Kilogramos
+						if(data.weight)
+							input#kgs.text-center(type='number', placeholder="00.00", autocomplete="off", autocapitalize="off", value="#{data.weight}")
+						else
+							input#kgs.text-center(type='tel', placeholder="00.00", autocomplete="off", autocapitalize="off")
+				br
+				
+			+submitButton()
