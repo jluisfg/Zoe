@@ -63,6 +63,10 @@
                         {
                             "xml": "<feature name=\"StatusBar\"><param name=\"android-package\" value=\"org.apache.cordova.statusbar.StatusBar\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"LaunchMyApp\"><param name=\"android-package\" value=\"nl.xservices.plugins.LaunchMyApp\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -170,6 +174,12 @@
                             "xml": "<receiver android:name=\"com.parse.GcmBroadcastReceiver\" android:permission=\"com.google.android.c2dm.permission.SEND\"><intent-filter><action android:name=\"com.google.android.c2dm.intent.RECEIVE\" /><action android:name=\"com.google.android.c2dm.intent.REGISTRATION\" /><category android:name=\"mx.zoewatermovil.app\" /></intent-filter></receiver>",
                             "count": 1
                         }
+                    ],
+                    "/*/application/activity": [
+                        {
+                            "xml": "<intent-filter><data android:scheme=\"zoewater\" /><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /></intent-filter>",
+                            "count": 1
+                        }
                     ]
                 }
             },
@@ -223,6 +233,10 @@
         },
         "com.stratogos.cordova.parsePushNotifications": {
             "PACKAGE_NAME": "mx.zoewatermovil.app"
+        },
+        "nl.x-services.plugins.launchmyapp": {
+            "URL_SCHEME": "zoewater",
+            "PACKAGE_NAME": "mx.zoewater.app"
         }
     },
     "dependent_plugins": {}

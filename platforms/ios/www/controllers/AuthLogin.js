@@ -82,9 +82,13 @@ define(function(require){
 		},
 		forgot: function(){
 			if(this.views.forgot){
+				this.hide();
 				this.views.forgot.show();
+				
 			}else{
+				this.hide();
 				this.views.forgot = new Forgot().show();
+				
 			}
 		}
 	});

@@ -1,0 +1,29 @@
+{
+    "version": "3.2.2",
+    "name": "nl.x-services.plugins.launchmyapp",
+    "cordova_name": "Custom URL scheme",
+    "description": "\n    Launch your app by using this URL:  mycoolapp://\n    You can add a path and even pass params like this: mycoolerapp://somepath?foo=bar\n  ",
+    "license": "MIT",
+    "repo": "https://github.com/EddyVerbruggen/Custom-URL-scheme.git",
+    "issue": "https://github.com/EddyVerbruggen/Custom-URL-scheme/issues",
+    "keywords": [
+        "Custom URL Scheme",
+        "URLscheme",
+        "URL scheme",
+        "Custom URL",
+        "Launch My App",
+        "Launch App"
+    ],
+    "platforms": [
+        "ios",
+        "android",
+        "windows8",
+        "windows"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}

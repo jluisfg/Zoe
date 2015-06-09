@@ -1182,3 +1182,24 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-25 12:01:18.522 Zoe Water[13051:13905491] THREAD WARNING: ['ParsePushNotificationPlugin'] took '40.086914' ms. Plugin should use a background thread.
 2015-05-25 12:01:19.212 Zoe Water[13051:13905491] THREAD WARNING: ['ActivityIndicator'] took '25.833252' ms. Plugin should use a background thread.
 2015-05-25 12:01:24.704 Zoe Water[13051:13905491] THREAD WARNING: ['SocialSharing'] took '112.204102' ms. Plugin should use a background thread.
+2015-06-09 17:02:32.640 Zoe Water[57036:17675851] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 17:02:32.647 Zoe Water[57036:17675851] Multi-tasking -> Device: YES, App: YES
+2015-06-09 17:02:32.685 Zoe Water[57036:17675851] Unlimited access to network resources
+2015-06-09 17:02:32.717 Zoe Water[57036:17675851] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-09 17:02:33.606 Zoe Water[57036:17675851] Init FacebookConnect Session
+2015-06-09 17:02:33.690 Zoe Water[57036:17675851] [CDVTimer][facebookconnectplugin] 84.185958ms
+2015-06-09 17:02:33.953 Zoe Water[57036:17675851] [CDVTimer][statusbar] 262.291014ms
+2015-06-09 17:02:34.078 Zoe Water[57036:17675851] [CDVTimer][splashscreen] 123.816013ms
+2015-06-09 17:02:34.210 Zoe Water[57036:17675851] [CDVTimer][socialsharing] 132.124007ms
+2015-06-09 17:02:34.210 Zoe Water[57036:17675851] [CDVTimer][TotalPluginStartup] 604.161024ms
+2015-06-09 17:02:34.439 Zoe Water[57036:17675851] Resetting plugins due to page load.
+2015-06-09 17:02:34.858 Zoe Water[57036:17675851] Finished load of: file:///Users/luiskcs89/Library/Developer/CoreSimulator/Devices/435FF7A3-F9F8-4357-8A9A-5CD2977CB8E6/data/Containers/Bundle/Application/ABA3F751-331C-41B9-B83D-E829F7065913/Zoe%20Water.app/www/index.html
+2015-06-09 17:02:35.256 Zoe Water[57036:17675851] THREAD WARNING: ['ParsePushNotificationPlugin'] took '49.586914' ms. Plugin should use a background thread.
+2015-06-09 17:02:36.098 Zoe Water[57036:17675851] THREAD WARNING: ['ActivityIndicator'] took '49.676270' ms. Plugin should use a background thread.

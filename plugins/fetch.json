@@ -90,9 +90,8 @@
     },
     "nl.x-services.plugins.launchmyapp": {
         "source": {
-            "type": "git",
-            "url": "https://github.com/EddyVerbruggen/LaunchMyApp-PhoneGap-Plugin.git",
-            "subdir": "."
+            "type": "registry",
+            "id": "nl.x-services.plugins.launchmyapp"
         }
     }
 }

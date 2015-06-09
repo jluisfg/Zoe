@@ -97,6 +97,13 @@ module.exports = [
         "clobbers": [
             "plugin.parse_push"
         ]
+    },
+    {
+        "file": "plugins/nl.x-services.plugins.launchmyapp/www/android/LaunchMyApp.js",
+        "id": "nl.x-services.plugins.launchmyapp.LaunchMyApp",
+        "clobbers": [
+            "window.plugins.launchmyapp"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -113,7 +120,8 @@ module.exports.metadata =
     "nl.x-services.plugins.actionsheet": "1.1.4",
     "nl.x-services.plugins.socialsharing": "4.3.18",
     "org.apache.cordova.statusbar": "0.1.10",
-    "com.stratogos.cordova.parsePushNotifications": "0.1.0"
+    "com.stratogos.cordova.parsePushNotifications": "0.1.0",
+    "nl.x-services.plugins.launchmyapp": "3.2.2"
 }
 // BOTTOM OF METADATA
 });
